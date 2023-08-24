@@ -2,7 +2,8 @@
 - [ ] After checking out how to use a debugger with Go, apply knowledge to [go-blockchain](https://github.com/mkohlhaas/go-blockchain).
 - [ ] Provide a CLI with Cobra for [go-blockchain](https://github.com/mkohlhaas/go-blockchain).
 - [ ] [Parsing with ANTLR4 and Go](https://blog.gopheracademy.com/advent-2017/parsing-with-antlr4-and-go/)
-    - [ ] Search for `antlr4 golang` in FF Bookmarks
+    - [ ] ANTLR Mega Tutorial
+    - [x] Search for `antlr4 golang` in FF Bookmarks
 - [ ] WireShark code generator:
     - [ ] Lua
     - [ ] C
