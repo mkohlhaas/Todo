@@ -1,5 +1,9 @@
-- [ ] [Using Vim as a Go IDE](https://www.pavedroad.io/part-1-using-vim-as-a-go-ide/)
+- [x] [Using Vim as a Go IDE](https://www.pavedroad.io/part-1-using-vim-as-a-go-ide/)
 - [ ] After checking out how to use a debugger with Go, apply knowledge to [go-blockchain](https://github.com/mkohlhaas/go-blockchain).
 - [ ] Provide a CLI with Cobra for [go-blockchain](https://github.com/mkohlhaas/go-blockchain).
-- [ ] [Parsing with ANTLR 4 and Go](https://blog.gopheracademy.com/advent-2017/parsing-with-antlr4-and-go/)
+- [ ] [Parsing with ANTLR4 and Go](https://blog.gopheracademy.com/advent-2017/parsing-with-antlr4-and-go/)
     - [ ] Search for `antlr4 golang` in FF Bookmarks
+- [ ] WireShark code generator:
+    - [ ] Lua
+    - [ ] C
+    - [ ] Protocol spec for ₿itcoin network protocol
