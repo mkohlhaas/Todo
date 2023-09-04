@@ -2,12 +2,7 @@
     - [ ] Steuerung ausschließlich per PS3 Game Pad
         - [ ] z.B. Setzen eines Tons, seine Tonhöhe, Intensität und Tonlänge
     - [ ] Implementierung mit:
-        - [ ] [GIO UI](https://gioui.org/)
-            - [ ] ~~Check if [game pad plug-in works](https://github.com/gioui-plugins/gio-plugins/issues/14)~~
-            - [ ] [Golang Joystick](https://github.com/0xcafed00d/joystick)
-        - [ ] ~~[Raylib](https://www.raylib.com/)~~
-        - [ ] ~~Dart und Flutter, z.B. [Dart Midi](https://github.com/maks/dart_midi)~~
-            - Keine Game Pad Unterstützung
+        - [ ] [Raylib](https://www.raylib.com/)
     - [ ] 16 Patterns
     - [ ] Multiple/infinite Pages
     - [ ] Copy/Paste von Tönen, Pattern und Pages
