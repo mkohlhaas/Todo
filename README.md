@@ -1,17 +1,3 @@
-- [ ] Go Blockchain
-    - [ ] Debug [go-blockchain](https://github.com/mkohlhaas/go-blockchain)
-    - [ ] Cobra-CLI for [go-blockchain](https://github.com/mkohlhaas/go-blockchain)
-- [ ] ANTLR4
-    - [ ] WireShark code generator:
-        - [ ] See as a reference [Richard Sharpe's existing WireShark generator](https://gitlab.com/realrichardsharpe/wireshark-generator)
-        - [ ] Define a Network Protocol Definition Language (NPDL)
-            - [ ] Use Golang like syntax
-        - [ ] Generate Lua code
-        - [ ] Generate C code
-        - [ ] Protocol spec for ₿itcoin network protocol in NPDL
-        - [ ] Formatter for NPDL
-        - [ ] Language Server Protocol implementation for Network Protocol Definition Language (NPDL)
-        - [ ] Syntax High-Lighting
 - [ ] Midi Sequencer
     - [ ] Steuerung ausschließlich per PS3 Game Pad
         - [ ] z.B. Setzen eines Tons, seine Tonhöhe, Intensität und Tonlänge
@@ -27,3 +13,14 @@
     - [ ] Copy/Paste von Tönen, Pattern und Pages
     - [ ] Abspeichern, Laden
     - [ ] Undo, Redo
+- [ ] ANTLR4
+    - [ ] WireShark code generator:
+        - [ ] See as a reference [Richard Sharpe's existing WireShark generator](https://gitlab.com/realrichardsharpe/wireshark-generator)
+        - [ ] Define a Network Protocol Definition Language (NPDL)
+            - [ ] Use Golang like syntax
+        - [ ] Generate Lua code
+        - [ ] Generate C code
+        - [ ] Protocol spec for ₿itcoin network protocol in NPDL
+        - [ ] Formatter for NPDL
+        - [ ] Language Server Protocol implementation for Network Protocol Definition Language (NPDL)
+        - [ ] Syntax High-Lighting
