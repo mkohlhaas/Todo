@@ -1,16 +1,7 @@
-- [ ] Midi Sequencer
-    - [ ] Steuerung ausschließlich per PS3 Game Pad
-        - [ ] z.B. Setzen eines Tons, seine Tonhöhe, Intensität und Tonlänge
-    - [ ] Implementierung mit:
-        - [ ] [Raylib](https://www.raylib.com/)
-    - [ ] 16 Patterns
-    - [ ] Multiple/infinite Pages
-    - [ ] Copy/Paste von Tönen, Pattern und Pages
-    - [ ] Abspeichern, Laden
-    - [ ] Undo, Redo
 - [ ] ANTLR4
     - [ ] WireShark code generator:
         - [ ] See as a reference [Richard Sharpe's existing WireShark generator](https://gitlab.com/realrichardsharpe/wireshark-generator)
+        - [ ] [SharkFest'18 EUROPE](https://github.com/mkohlhaas/SharkFest18-EU-WireShark-Dissector)
         - [ ] Define a Network Protocol Definition Language (NPDL)
             - [ ] Use Golang like syntax
         - [ ] Generate Lua code
