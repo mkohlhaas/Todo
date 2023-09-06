@@ -1,19 +1,4 @@
-- [ ] Define Musical Language
-    - [ ] Similar to PureData but textual (not graphical)
-    - [ ] Specify Antlr4 grammar
-        - [ ] Everything has inputs and outputs. They might be empty though but must be specified.
-            - [ ] Outputs of one box can be connected to inputs of another box
-            - [ ] Between every connected output of box A and input of box B is a function.
-                  Could be the identity function in the simplest case.
-            - [ ] This connecting function maps input type of box A to output type of box B
-            - [ ] Connecting functions will be type-checked
-    - [ ] Will include predefined building blocks which are just connecting functions or boxes, e.g. euclidean rhythms, sequencers, midi outputs, ...
-    - [ ] Values must be generated at every beat.
-    - [ ] Language Server Protocol implementation
-        - [ ] Supports selection of functions, boxes, etc...
-    - [ ] Can be read on-the-fly for live performances
-    - [ ] Formatter
-    - [ ] Syntax High-Lighting
-    - [ ] Graphical output of the resulting flow graphical
-        - [ ] with [raylib](https://www.raylib.com/)
-        - [ ] showing animations
+- [ ] BitCoin Network Protocol
+- [ ] Musical Pattern Language
+    - [ ] [ScribbleTune Patterns](https://scribbletune.com/documentation/core/clip#pattern)
+- [ ] [Book: Mastering the Lightning Network](https://github.com/lnbook/lnbook)
