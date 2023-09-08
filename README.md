@@ -12,3 +12,6 @@
         - [ ] [Python implementation](https://github.com/ayeowch/bitnodes/blob/master/protocol.py)
         - [ ] [Wire protocol in Golang](https://github.com/btcsuite/btcd/blob/master/wire/doc.go)
 - [ ] [Book: Mastering the Lightning Network](https://github.com/lnbook/lnbook)
+- [ ] Musical Notation similar to [ScribbleTune](https://scribbletune.com/)
+    - [ ] Musical Programming Language (MPL)
+    - [ ] [Foto](IMG_20230908_123746.jpg)
