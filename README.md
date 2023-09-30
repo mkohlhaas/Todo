@@ -1,14 +1,3 @@
-- [ ] BitCoin Network Protocol
-    - [ ] Write a Bitcoin network crawler
-        - [ ] First Step: getaddr call to a peer
-        - [ ] Connect to DNS seeders and recursivley send getaddr messages
-            - [ ] Use pool of workers to distribute work
-                - [ ] [Worker Pools](https://gobyexample.com/worker-pools)
-                - [ ] Pool section in [Concurrency in Go Tools and Techniques for Developers](https://katherine.cox-buday.com/concurrency-in-go/)
-            - [ ] Write peers into SQLite DB using mutex locks
-                - [ ] Every write is in a separate go routine with defer db.Close() call: [SQLite3](https://github.com/mattn/go-sqlite3/blob/master/_example/simple/simple.go)
-                - [ ] [SQL Database Pooling](https://koho.dev/understanding-go-and-databases-at-scale-connection-pooling-f301e56fa73)
-            - [ ] Use Bogons etc. databases
-        - [ ] [Python implementation](https://github.com/ayeowch/bitnodes/blob/master/protocol.py)
-        - [ ] [Wire protocol in Golang](https://github.com/btcsuite/btcd/blob/master/wire/doc.go)
-- [ ] [Book: Mastering the Lightning Network](https://github.com/lnbook/lnbook)
+- [ ] Book: [Data Structures & Algorithms in Dart](https://www.kodeco.com/books/data-structures-algorithms-in-dart/v2.0)
+- [ ] Antlr4 [York Project](https://github.com/mkohlhaas/York-Lassonde-EECS4302-ANTLR4-Parser-Generator-Tutorial-Go) in Dart
+    - Youtube: [York Lassonde EECS4302 ANTLR4 Parser Generator Tutorial](https://www.youtube.com/playlist?list=PL5dxAmCmjv_4FGYtGzcvBeoS-BobRTJLq)
