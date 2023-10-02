@@ -1,3 +1,17 @@
 - [ ] Book: [Data Structures & Algorithms in Dart](https://www.kodeco.com/books/data-structures-algorithms-in-dart/v2.0)
+- [ ] [Dart Language](https://dart.dev/language)
 - [ ] Antlr4 [York Project](https://github.com/mkohlhaas/York-Lassonde-EECS4302-ANTLR4-Parser-Generator-Tutorial-Go) in Dart
-    - Youtube: [York Lassonde EECS4302 ANTLR4 Parser Generator Tutorial](https://www.youtube.com/playlist?list=PL5dxAmCmjv_4FGYtGzcvBeoS-BobRTJLq)
+    - [ ] Youtube: [York Lassonde EECS4302 ANTLR4 Parser Generator Tutorial](https://www.youtube.com/playlist?list=PL5dxAmCmjv_4FGYtGzcvBeoS-BobRTJLq)
+- [ ] Goal is to have a complete demo application for [PostgreSQL sample database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) from scratch
+    - [ ] Repository Specification Language (RSL)
+        - [ ] Language server
+            - [ ] Syntax Highlighting
+            - [ ] Autocompletion
+            - [ ] See whats possible refering to [Dart Language Server](https://github.com/dart-lang/sdk/blob/master/pkg/analysis_server/tool/lsp_spec/README.md)
+        - [ ] PlantUML support for ERD
+    - [ ] Everything Dart including server
+    - [ ] Application Object Manager (AOM) automatically created
+        - [ ] API similar to [Siebel Object Interface](https://docs.oracle.com/cd/B31104_02/books/OIRef/OIRefInterfaceRef.html#wp1068704)
+        - [ ] JSON over TCP/IP (usable from a Telnet session)
+    - [ ] rpl.dev site for downloading sample repositories for data layer and Dart classes for business layer
+        - [ ] e.g. for access control
