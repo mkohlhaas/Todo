@@ -1,11 +1,15 @@
 - [x] Book: [Data Structures & Algorithms in Dart](https://www.kodeco.com/books/data-structures-algorithms-in-dart/v2.0)
-- [ ] Dart binding for FoundationDB
 - [ ] [Dart Language](https://dart.dev/language), esp. Pattern Matching
-- [ ] Antlr4 [York Project](https://github.com/mkohlhaas/York-Lassonde-EECS4302-ANTLR4-Parser-Generator-Tutorial-Go) in Dart
-    - [ ] Youtube: [York Lassonde EECS4302 ANTLR4 Parser Generator Tutorial](https://www.youtube.com/playlist?list=PL5dxAmCmjv_4FGYtGzcvBeoS-BobRTJLq)
+- [ ] Dart binding for FoundationDB
+    - [ ] [Python Binding](https://pypi.org/project/foundationdb/#files)
+    - [ ] [Ruby Binding](https://rubygems.org/gems/fdb)
+        - [ ] [Ruby Binding Download](https://rubygems.org/downloads/fdb-7.3.19.gem)
 - [ ] Goal is to have a complete demo application for [PostgreSQL sample database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) from scratch
     - [ ] Repository Specification Language (RSL)
         - [ ] Language server
+            - [ ] Antlr4 [York Project](https://github.com/mkohlhaas/York-Lassonde-EECS4302-ANTLR4-Parser-Generator-Tutorial-Go) in Dart
+                - [ ] Youtube: [York Lassonde EECS4302 ANTLR4 Parser Generator Tutorial](https://www.youtube.com/playlist?list=PL5dxAmCmjv_4FGYtGzcvBeoS-BobRTJLq)
+                - [ ] [Antlr4 Dart Target](https://github.com/antlr/antlr4/blob/master/doc/dart-target.md)
             - [ ] Syntax Highlighting
             - [ ] Autocompletion
             - [ ] See whats possible referring to [Dart Language Server](https://github.com/dart-lang/sdk/blob/master/pkg/analysis_server/tool/lsp_spec/README.md)
