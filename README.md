@@ -1,5 +1,6 @@
-- [ ] Book: [Data Structures & Algorithms in Dart](https://www.kodeco.com/books/data-structures-algorithms-in-dart/v2.0)
-- [ ] [Dart Language](https://dart.dev/language)
+- [x] Book: [Data Structures & Algorithms in Dart](https://www.kodeco.com/books/data-structures-algorithms-in-dart/v2.0)
+- [ ] Dart binding for FoundationDB
+- [ ] [Dart Language](https://dart.dev/language), esp. Pattern Matching
 - [ ] Antlr4 [York Project](https://github.com/mkohlhaas/York-Lassonde-EECS4302-ANTLR4-Parser-Generator-Tutorial-Go) in Dart
     - [ ] Youtube: [York Lassonde EECS4302 ANTLR4 Parser Generator Tutorial](https://www.youtube.com/playlist?list=PL5dxAmCmjv_4FGYtGzcvBeoS-BobRTJLq)
 - [ ] Goal is to have a complete demo application for [PostgreSQL sample database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) from scratch
@@ -7,7 +8,7 @@
         - [ ] Language server
             - [ ] Syntax Highlighting
             - [ ] Autocompletion
-            - [ ] See whats possible refering to [Dart Language Server](https://github.com/dart-lang/sdk/blob/master/pkg/analysis_server/tool/lsp_spec/README.md)
+            - [ ] See whats possible referring to [Dart Language Server](https://github.com/dart-lang/sdk/blob/master/pkg/analysis_server/tool/lsp_spec/README.md)
         - [ ] PlantUML support for ERD
     - [ ] Everything Dart including server
     - [ ] Application Object Manager (AOM) automatically created
