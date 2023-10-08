@@ -1,9 +1,22 @@
 - [x] Book: [Data Structures & Algorithms in Dart](https://www.kodeco.com/books/data-structures-algorithms-in-dart/v2.0)
-- [ ] [Dart Language](https://dart.dev/language), esp. Pattern Matching
-- [ ] Dart binding for FoundationDB
-    - [ ] [Python Binding](https://pypi.org/project/foundationdb/#files)
-    - [ ] [Ruby Binding](https://rubygems.org/gems/fdb)
-        - [ ] [Ruby Binding Download](https://rubygems.org/downloads/fdb-7.3.19.gem)
+- [x] [Dart Language](https://dart.dev/language), esp. Pattern Matching
+- [x] Flutter Installation: install [Brew](https://brew.sh/) → install ASDF → install flutter
+    - [x] [🌳 Working with multiple tools with multiple versions](https://www.iainsmith.me/blog/future-proof-your-flutter-env#-working-with-multiple-tools-with-multiple-versions)
+- [ ] Flutter Books
+    - [ ] 1 - Programming Flutter Native, Cross-Platform Apps the Easy Way (Carmine Zaccagnino).pdf
+    - [ ] 2 - Real-World Flutter by Tutorials (Edson Bueno Vid Palčar).pdf
+    - [ ] 3 - Flutter Cookbook 100+ step-by-step recipes for building cross-platform, professional-grade apps with Flutter, 2nd Edition (Simone Alessandria).pdf
+- [ ] FoundationDB and Dart
+    - [ ] Dart Binding for FoundationDB
+        - [ ] [Python Binding](https://pypi.org/project/foundationdb/#files)
+        - [ ] [Ruby Binding](https://rubygems.org/gems/fdb)
+            - [ ] [Ruby Binding Download](https://rubygems.org/downloads/fdb-7.3.19.gem)
+    - [ ] FoundationDB Tutorials (mainly Ruby)
+        - [x] Book: Programming Ruby, 3.2
+        - [ ] Test Dart Binding
+    - [ ] FoundationDB Explorer
+        - [ ] [FoundationDB Github List](https://github.com/stars/mkohlhaas/lists/foundationdb)
+        - [ ] UI in Flutter (Desktop)
 - [ ] Goal is to have a complete demo application for [PostgreSQL sample database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) from scratch
     - [ ] Repository Specification Language (RSL)
         - [ ] Language server
