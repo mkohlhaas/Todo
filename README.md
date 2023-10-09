@@ -2,11 +2,13 @@
 - [x] [Dart Language](https://dart.dev/language), esp. Pattern Matching
 - [x] Flutter Installation: install [Brew](https://brew.sh/) → install ASDF → install flutter
     - [x] [🌳 Working with multiple tools with multiple versions](https://www.iainsmith.me/blog/future-proof-your-flutter-env#-working-with-multiple-tools-with-multiple-versions)
-- [ ] Flutter Books
-    - [ ] 1 - Programming Flutter Native, Cross-Platform Apps the Easy Way (Carmine Zaccagnino).pdf
-    - [ ] 2 - Real-World Flutter by Tutorials (Edson Bueno Vid Palčar).pdf
-    - [ ] 3 - Flutter Cookbook 100+ step-by-step recipes for building cross-platform, professional-grade apps with Flutter, 2nd Edition (Simone Alessandria).pdf
+    - [x] [Add Android Emulator](https://gist.github.com/mkohlhaas/22fdcf05017e0ab834588bf327143673)
+- [x] Book: Flutter Apprentice (Third Edition) Learn to Build Cross-Platform Apps
 - [ ] FoundationDB and Dart
+    - [ ] Recap Dart
+        - [x] [Dart-Apprentice-Fundamentals](https://github.com/mkohlhaas/Dart-Apprentice-Fundamentals)
+        - [ ] [Dart-Apprentice-Beyond-Basics](https://github.com/mkohlhaas/Dart-Apprentice-Beyond-Basics)
+    - [ ] [FoundationDB Installation on Void Linux](https://github.com/mkohlhaas/FoundationDB-Installation)
     - [ ] Dart Binding for FoundationDB
         - [ ] [Python Binding](https://pypi.org/project/foundationdb/#files)
         - [ ] [Ruby Binding](https://rubygems.org/gems/fdb)
@@ -27,7 +29,7 @@
             - [ ] Autocompletion
             - [ ] See whats possible referring to [Dart Language Server](https://github.com/dart-lang/sdk/blob/master/pkg/analysis_server/tool/lsp_spec/README.md)
         - [ ] PlantUML support for ERD
-    - [ ] Everything Dart including server
+    - [ ] Everything Dart, including server
     - [ ] Application Object Manager (AOM) automatically created
         - [ ] API similar to [Siebel Object Interface](https://docs.oracle.com/cd/B31104_02/books/OIRef/OIRefInterfaceRef.html#wp1068704)
         - [ ] JSON over TCP/IP (usable from a Telnet session)
