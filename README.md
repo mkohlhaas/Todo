@@ -5,10 +5,11 @@
     - [x] [Add Android Emulator](https://gist.github.com/mkohlhaas/22fdcf05017e0ab834588bf327143673)
 - [x] Book: Flutter Apprentice (Third Edition) Learn to Build Cross-Platform Apps
 - [ ] FoundationDB and Dart
-    - [ ] Recap Dart
+    - [x] Recap Dart
         - [x] [Dart-Apprentice-Fundamentals](https://github.com/mkohlhaas/Dart-Apprentice-Fundamentals)
-        - [ ] [Dart-Apprentice-Beyond-Basics](https://github.com/mkohlhaas/Dart-Apprentice-Beyond-Basics)
+        - [x] [Dart-Apprentice-Beyond-Basics](https://github.com/mkohlhaas/Dart-Apprentice-Beyond-Basics)
     - [ ] [FoundationDB Installation on Void Linux](https://github.com/mkohlhaas/FoundationDB-Installation)
+    - [ ] Read FoundationDB documentation and do the Ruby tutorials
     - [ ] Dart Binding for FoundationDB
         - [ ] [Python Binding](https://pypi.org/project/foundationdb/#files)
         - [ ] [Ruby Binding](https://rubygems.org/gems/fdb)
