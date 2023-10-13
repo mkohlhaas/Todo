@@ -8,8 +8,11 @@
     - [x] Recap Dart
         - [x] [Dart-Apprentice-Fundamentals](https://github.com/mkohlhaas/Dart-Apprentice-Fundamentals)
         - [x] [Dart-Apprentice-Beyond-Basics](https://github.com/mkohlhaas/Dart-Apprentice-Beyond-Basics)
-    - [ ] [FoundationDB Installation on Void Linux](https://github.com/mkohlhaas/FoundationDB-Installation)
-    - [ ] Read FoundationDB documentation and do the Ruby tutorials
+    - [x] [FoundationDB Installation on Void Linux](https://github.com/mkohlhaas/FoundationDB-Installation)
+    - [ ] Read FoundationDB documentation
+        - [ ] [Administration](https://apple.github.io/foundationdb/administration.html)
+        - [ ] [Tutorials](https://apple.github.io/foundationdb/tutorials.html)
+        - [ ] [Ruby API](https://apple.github.io/foundationdb/api-ruby.html)
     - [ ] Dart Binding for FoundationDB
         - [ ] [Python Binding](https://pypi.org/project/foundationdb/#files)
         - [ ] [Ruby Binding](https://rubygems.org/gems/fdb)
