@@ -21,9 +21,6 @@
     - [ ] FoundationDB Tutorials (mainly Ruby)
         - [x] Book: Programming Ruby, 3.2
         - [ ] Test Dart Binding
-    - [ ] FoundationDB Explorer
-        - [ ] [FoundationDB Github List](https://github.com/stars/mkohlhaas/lists/foundationdb)
-        - [ ] UI in Flutter (Desktop)
 - [ ] Goal is to have a complete demo application for [PostgreSQL sample database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) from scratch
     - [ ] Repository Specification Language (RSL)
         - [ ] Language server
