@@ -18,6 +18,8 @@
     - [ ] Dart Binding for FoundationDB
         - [ ] Youtube: [C interoperability with Dart FFI | Session ](https://www.youtube.com/watch?v=2MMK7YoFgaA&pp=ygUIZGFydCBmZmk%3D)
             - [ ] [Sample Code](https://github.com/mit-mit/ffi-talk)
+        - [ ] [Dart FFI Generator](https://github.com/dart-lang/ffigen)
+        - [ ] [Use case: Class Scheduling](https://apple.github.io/foundationdb/class-scheduling.html)
         - [ ] [Official Bindings](https://github.com/apple/foundationdb/tree/main/bindings)
 - [ ] Goal is to have a complete demo application for [PostgreSQL sample database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) from scratch
     - [ ] Repository Specification Language (RSL)
