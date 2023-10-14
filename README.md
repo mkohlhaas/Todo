@@ -9,18 +9,15 @@
         - [x] [Dart-Apprentice-Fundamentals](https://github.com/mkohlhaas/Dart-Apprentice-Fundamentals)
         - [x] [Dart-Apprentice-Beyond-Basics](https://github.com/mkohlhaas/Dart-Apprentice-Beyond-Basics)
     - [x] [FoundationDB Installation on Void Linux](https://github.com/mkohlhaas/FoundationDB-Installation)
-    - [ ] Read FoundationDB documentation
+    - [x] Read FoundationDB documentation
         - [x] [Administration](https://apple.github.io/foundationdb/administration.html)
         - [x] [Tutorials](https://apple.github.io/foundationdb/tutorials.html)
-        - [ ] [Data Modeling](https://apple.github.io/foundationdb/data-modeling.html)
-        - [ ] [Ruby API](https://apple.github.io/foundationdb/api-ruby.html)
+        - [x] [Data Modeling](https://apple.github.io/foundationdb/data-modeling.html)
+        - [x] [Developer Guide](https://apple.github.io/foundationdb/developer-guide.html)
+        - [x] [Ruby API](https://apple.github.io/foundationdb/api-ruby.html)
     - [ ] Dart Binding for FoundationDB
-        - [ ] [Python Binding](https://pypi.org/project/foundationdb/#files)
-        - [ ] [Ruby Binding](https://rubygems.org/gems/fdb)
-            - [ ] [Ruby Binding Download](https://rubygems.org/downloads/fdb-7.3.19.gem)
-    - [ ] FoundationDB Tutorials (mainly Ruby)
-        - [x] Book: Programming Ruby, 3.2
-        - [ ] Test Dart Binding
+        - [ ] Youtube: [C interoperability with Dart FFI | Session ](https://www.youtube.com/watch?v=2MMK7YoFgaA&pp=ygUIZGFydCBmZmk%3D)
+        - [ ] [Official Bindings](https://github.com/apple/foundationdb/tree/main/bindings)
 - [ ] Goal is to have a complete demo application for [PostgreSQL sample database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) from scratch
     - [ ] Repository Specification Language (RSL)
         - [ ] Language server
