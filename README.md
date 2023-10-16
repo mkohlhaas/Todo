@@ -16,11 +16,13 @@
         - [x] [Developer Guide](https://apple.github.io/foundationdb/developer-guide.html)
         - [x] [Ruby API](https://apple.github.io/foundationdb/api-ruby.html)
     - [ ] Dart Binding for FoundationDB
-        - [ ] Youtube: [C interoperability with Dart FFI | Session ](https://www.youtube.com/watch?v=2MMK7YoFgaA&pp=ygUIZGFydCBmZmk%3D)
-            - [ ] [Sample Code](https://github.com/mit-mit/ffi-talk)
-        - [ ] [Dart FFI Generator](https://github.com/dart-lang/ffigen)
+        - [x] Youtube: [C interoperability with Dart FFI | Session ](https://www.youtube.com/watch?v=2MMK7YoFgaA&pp=ygUIZGFydCBmZmk%3D)
+            - [x] [Sample Code](https://github.com/mit-mit/ffi-talk)
+        - [x] [Dart FFI Generator](https://github.com/dart-lang/ffigen)
+        - [x] [Official Bindings](https://github.com/apple/foundationdb/tree/main/bindings)
+        - [x] [Javascript Binding](https://github.com/josephg/node-foundationdb)
+        - [ ] [Dart Binding for FoundationDB](https://github.com/mkohlhaas/fdb_dart_bindings)
         - [ ] [Use case: Class Scheduling](https://apple.github.io/foundationdb/class-scheduling.html)
-        - [ ] [Official Bindings](https://github.com/apple/foundationdb/tree/main/bindings)
 - [ ] Goal is to have a complete demo application for [PostgreSQL sample database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) from scratch
     - [ ] Repository Specification Language (RSL)
         - [ ] Language server
