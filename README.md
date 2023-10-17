@@ -21,7 +21,7 @@
         - [x] [Dart FFI Generator](https://github.com/dart-lang/ffigen)
         - [x] [Official Bindings](https://github.com/apple/foundationdb/tree/main/bindings)
         - [x] [Javascript Binding](https://github.com/josephg/node-foundationdb)
-        - [ ] [Dart Binding for FoundationDB](https://github.com/mkohlhaas/fdb_dart_bindings)
+        - [ ] [Dart Binding for FoundationDB](https://github.com/mkohlhaas/foundationdb)
         - [ ] [Use case: Class Scheduling](https://apple.github.io/foundationdb/class-scheduling.html)
 - [ ] Goal is to have a complete demo application for [PostgreSQL sample database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) from scratch
     - [ ] Repository Specification Language (RSL)
