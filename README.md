@@ -22,6 +22,7 @@
         - [x] [Official Bindings](https://github.com/apple/foundationdb/tree/main/bindings)
         - [x] [Javascript Binding](https://github.com/josephg/node-foundationdb)
         - [ ] [Dart Binding for FoundationDB](https://github.com/mkohlhaas/foundationdb)
+            - [ ] Test with [Bindingtester](https://github.com/apple/foundationdb/tree/main/bindings/bindingtester)
         - [ ] [Use case: Class Scheduling](https://apple.github.io/foundationdb/class-scheduling.html)
 - [ ] Goal is to have a complete demo application for [PostgreSQL sample database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) from scratch
     - [ ] Repository Specification Language (RSL)
@@ -39,3 +40,6 @@
         - [ ] JSON over TCP/IP (usable from a Telnet session)
     - [ ] rpl.dev site for downloading sample repositories for data layer and Dart classes for business layer
         - [ ] e.g. for access control
+- [ ] Dart Binding for [raylib](https://www.raylib.com/)
+    - [ ] Physics engine in Dart based on Verlet integration
+    - [ ] [ZType clone](https://zty.pe/)
