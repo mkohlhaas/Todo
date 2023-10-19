@@ -24,22 +24,9 @@
         - [ ] [Dart Binding for FoundationDB](https://github.com/mkohlhaas/foundationdb)
             - [ ] Test with [Bindingtester](https://github.com/apple/foundationdb/tree/main/bindings/bindingtester)
         - [ ] [Use case: Class Scheduling](https://apple.github.io/foundationdb/class-scheduling.html)
-- [ ] Goal is to have a complete demo application for [PostgreSQL sample database](https://www.postgresqltutorial.com/postgresql-getting-started/postgresql-sample-database/) from scratch
-    - [ ] Repository Specification Language (RSL)
-        - [ ] Language server
-            - [ ] Antlr4 [York Project](https://github.com/mkohlhaas/York-Lassonde-EECS4302-ANTLR4-Parser-Generator-Tutorial-Go) in Dart
-                - [ ] Youtube: [York Lassonde EECS4302 ANTLR4 Parser Generator Tutorial](https://www.youtube.com/playlist?list=PL5dxAmCmjv_4FGYtGzcvBeoS-BobRTJLq)
-                - [ ] [Antlr4 Dart Target](https://github.com/antlr/antlr4/blob/master/doc/dart-target.md)
-            - [ ] Syntax Highlighting
-            - [ ] Autocompletion
-            - [ ] See whats possible referring to [Dart Language Server](https://github.com/dart-lang/sdk/blob/master/pkg/analysis_server/tool/lsp_spec/README.md)
-        - [ ] PlantUML support for ERD
-    - [ ] Everything Dart, including server
-    - [ ] Application Object Manager (AOM) automatically created
-        - [ ] API similar to [Siebel Object Interface](https://docs.oracle.com/cd/B31104_02/books/OIRef/OIRefInterfaceRef.html#wp1068704)
-        - [ ] JSON over TCP/IP (usable from a Telnet session)
-    - [ ] rpl.dev site for downloading sample repositories for data layer and Dart classes for business layer
-        - [ ] e.g. for access control
+- [ ] [Firebase and alternatives](https://docs.flame-engine.org/latest/#multiplayer-netcode)
 - [ ] Dart Binding for [raylib](https://www.raylib.com/)
+    - [ ] [raylib installation](https://gitlab.archlinux.org/archlinux/packaging/packages/raylib/-/blob/main/PKGBUILD)
+        - [raylib installation gist](https://gist.github.com/mkohlhaas/2251cb3e32ba0ac08af32e742582ec7a)
     - [ ] Physics engine in Dart based on Verlet integration
-    - [ ] [ZType clone](https://zty.pe/)
+    - [ ] [ZType clone](https://zty.pe/) using FoundationDB for login, high score, etc...
