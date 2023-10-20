@@ -17,7 +17,7 @@
         - [x] [Ruby API](https://apple.github.io/foundationdb/api-ruby.html)
     - [ ] Dart Binding for FoundationDB
         - [x] Youtube: [C interoperability with Dart FFI | Session ](https://www.youtube.com/watch?v=2MMK7YoFgaA&pp=ygUIZGFydCBmZmk%3D)
-            - [x] [Sample Code](https://github.com/mit-mit/ffi-talk)
+            - [x] [Sample Code](https://github.com/mit-mit/ffi-talk/blob/main/sqlite_example/sqlite/lib/src/database/database.dart)
         - [x] [Dart FFI Generator](https://github.com/dart-lang/ffigen)
         - [x] [Official Bindings](https://github.com/apple/foundationdb/tree/main/bindings)
         - [x] [Javascript Binding](https://github.com/josephg/node-foundationdb)
