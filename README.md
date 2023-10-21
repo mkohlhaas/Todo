@@ -25,8 +25,9 @@
             - [ ] Test with [Bindingtester](https://github.com/apple/foundationdb/tree/main/bindings/bindingtester)
         - [ ] [Use case: Class Scheduling](https://apple.github.io/foundationdb/class-scheduling.html)
 - [ ] [Firebase and alternatives](https://docs.flame-engine.org/latest/#multiplayer-netcode)
-- [ ] Dart Binding for [raylib](https://www.raylib.com/)
-    - [ ] [raylib installation](https://gitlab.archlinux.org/archlinux/packaging/packages/raylib/-/blob/main/PKGBUILD)
+- [ ] Existing [Dart Binding](https://pub.dev/packages/raylib) for [raylib](https://www.raylib.com/)
+    - [x] [raylib installation](https://gitlab.archlinux.org/archlinux/packaging/packages/raylib/-/blob/main/PKGBUILD)
         - [raylib installation gist](https://gist.github.com/mkohlhaas/2251cb3e32ba0ac08af32e742582ec7a)
-    - [ ] Physics engine in Dart based on Verlet integration
+    - [ ] Create [Chipmunks Binding](https://github.com/slembcke/Chipmunk2D)
     - [ ] [ZType clone](https://zty.pe/) using FoundationDB for login, high score, etc...
+        - [ ] ... and the like
