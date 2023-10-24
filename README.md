@@ -25,9 +25,15 @@
             - [ ] Test with [Bindingtester](https://github.com/apple/foundationdb/tree/main/bindings/bindingtester)
         - [ ] [Use case: Class Scheduling](https://apple.github.io/foundationdb/class-scheduling.html)
 - [ ] [Firebase and alternatives](https://docs.flame-engine.org/latest/#multiplayer-netcode)
-- [ ] Existing [Dart Binding](https://pub.dev/packages/raylib) for [raylib](https://www.raylib.com/)
+- [ ] Use existing [Dart Binding](https://pub.dev/packages/raylib) for [raylib](https://www.raylib.com/)
     - [x] [raylib installation](https://gitlab.archlinux.org/archlinux/packaging/packages/raylib/-/blob/main/PKGBUILD)
         - [raylib installation gist](https://gist.github.com/mkohlhaas/2251cb3e32ba0ac08af32e742582ec7a)
-    - [ ] Create [Chipmunks Binding](https://github.com/slembcke/Chipmunk2D)
+    - [x] Create [Chipmunk Binding](https://github.com/slembcke/Chipmunk2D)
+        - [x] Too many inline functions which cannot be used in `dart:ffi`
+    - [ ] [Dart Port of Chipmunk: Stripepmunk](https://github.com/mkohlhaas/stripemunk)
+        - [ ] [CSharp Port of Chipmunk](https://github.com/netonjm/ChipmunkSharp)
+    - [ ] Chess with Flutter using [Stockfish](https://stockfishchess.org/)
+        - [ ] [Stockfish Chess Engine for Flutter](https://github.com/ArjanAswal/stockfish)
+        - [ ] [Lichess for Flutter](https://pub.dev/publishers/lichess.org/packages)
     - [ ] [ZType clone](https://zty.pe/) using FoundationDB for login, high score, etc...
         - [ ] ... and the like
