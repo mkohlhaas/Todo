@@ -1,0 +1,10 @@
+- [ ] Only right hand (6-12 months)
+  - [ ] Just trying to generate proper sounds: only open strings
+  - [ ] Open strings rhythm exercises with metronome
+  - [ ] Add more [Bowing Techniques](https://www.masterclass.com/articles/learn-about-violin-bowing-techniques-9-techniques-and-tips-for-better-violin-bowing) , e.g.
+- [ ] Adding left hand (6-12 months)
+  - [ ] One finger "scale" exercises with metronome
+    - [ ] Go through each finger.
+  - [ ] Learn vibrato with one finger.
+    - [ ] Go through each finger.
+- [ ] [Guitar Tabs](https://tabs.ultimate-guitar.com/)
