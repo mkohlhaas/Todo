@@ -23,8 +23,10 @@
         - [x] [Javascript Binding](https://github.com/josephg/node-foundationdb)
         - [ ] [Dart Binding for FoundationDB](https://github.com/mkohlhaas/foundationdb)
             - [x] Test with [Bindingtester](https://github.com/apple/foundationdb/tree/main/bindings/bindingtester)
-            - [ ] Property Testing with [Glados](https://pub.dev/packages/glados)
+            - [x] Property Testing with [Glados](https://pub.dev/packages/glados)
         - [ ] [Use case: Class Scheduling](https://apple.github.io/foundationdb/class-scheduling.html)
+        - [ ] Pharo Bindings
+            - [ ] For Object interface use Google Protocol Buffers
 - [ ] [Firebase and alternatives](https://docs.flame-engine.org/latest/#multiplayer-netcode)
 - [ ] Use existing [Dart Binding](https://pub.dev/packages/raylib) for [raylib](https://www.raylib.com/)
     - [x] [raylib installation](https://gitlab.archlinux.org/archlinux/packaging/packages/raylib/-/blob/main/PKGBUILD)
