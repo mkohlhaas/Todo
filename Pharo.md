@@ -1,9 +1,11 @@
-- [ ] FFI
+- [ ] FFI (in Pharo)
     - [ ] libclang
+        - [ ] raylib
+            - Use [Dart FFI Gen](https://github.com/dart-lang/ffigen), [TalkFFI (Pharo)](https://github.com/estebanlm/TalkFFI) and [Pharo Raylib](https://github.com/Zenchess/pharoRaylib) as reference.
+            - First check if [Pharo Raylib](https://github.com/Zenchess/pharoRaylib) is working.
         - [ ] First use Dart's FFI to see what will be generated from [Index.h](https://github.com/llvm/llvm-project/blob/main/clang/include/clang-c/Index.h)
             - [libclang Tutorial](https://clang.llvm.org/docs/LibClang.html)
         - [ ] FDB
-        - [ ] raylib
         - [ ] Skia
 - [x] Port [Data Structures & Algorithms in Dart](https://www.kodeco.com/books/data-structures-algorithms-in-dart/v2.0) to Pharo
   - [x] Compare with [Pharo Containers](https://github.com/pharo-containers)
