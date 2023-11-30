@@ -3,6 +3,7 @@
         - [ ] raylib
             - Use [Dart FFI Gen](https://github.com/dart-lang/ffigen) and Pharo Raylib](https://github.com/Zenchess/pharoRaylib) as reference.
             - First check if [Pharo Raylib](https://github.com/Zenchess/pharoRaylib) is working.
+            - clang installation with brew 
             - Try to load/compile clang-c for checking types with language server
             - start simple
             - create custom AST in Pharo
