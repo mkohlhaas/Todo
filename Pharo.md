@@ -2,7 +2,6 @@
     - [ ] libclang
         - [ ] raylib
             - Use [Dart FFI Gen](https://github.com/dart-lang/ffigen) and [Pharo Raylib](https://github.com/Zenchess/pharoRaylib) as reference.
-            - First check if [Pharo Raylib](https://github.com/Zenchess/pharoRaylib) is working.
             - start simple
             - create custom AST in Pharo
             - configuration of llvm in dictionary/association list 
