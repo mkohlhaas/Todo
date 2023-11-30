@@ -5,6 +5,7 @@
             - First check if [Pharo Raylib](https://github.com/Zenchess/pharoRaylib) is working.
             - start simple
             - create custom AST in Pharo
+            - configuration of llvm in dictionary/association list 
         - [ ] First use Dart's FFI to see what will be generated from [Index.h](https://github.com/llvm/llvm-project/blob/main/clang/include/clang-c/Index.h)
             - [libclang Tutorial](https://clang.llvm.org/docs/LibClang.html)
         - [ ] FDB
