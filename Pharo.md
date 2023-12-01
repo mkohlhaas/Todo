@@ -2,10 +2,9 @@
     - [ ] libclang
         - [ ] raylib
             - Use [Dart FFI Gen](https://github.com/dart-lang/ffigen) and [Pharo Raylib](https://github.com/Zenchess/pharoRaylib) as reference.
-            - start simple
-            - create custom AST in Pharo
-            - configuration of llvm in dictionary/association list
-            - look at FFI code generation code 
+            - Create custom AST in Pharo
+            - Configuration of llvm in dictionary/association list
+            - Look at FFI code generation code 
         - [ ] First use Dart's FFI to see what will be generated from [Index.h](https://github.com/llvm/llvm-project/blob/main/clang/include/clang-c/Index.h)
             - [libclang Tutorial](https://clang.llvm.org/docs/LibClang.html)
         - [ ] FDB
