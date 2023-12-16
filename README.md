@@ -1,42 +1,6 @@
-- [x] Book: [Data Structures & Algorithms in Dart](https://www.kodeco.com/books/data-structures-algorithms-in-dart/v2.0)
-- [x] [Dart Language](https://dart.dev/language), esp. Pattern Matching
-- [x] Flutter Installation: install [Brew](https://brew.sh/) → install ASDF → install flutter
-    - [x] [🌳 Working with multiple tools with multiple versions](https://www.iainsmith.me/blog/future-proof-your-flutter-env#-working-with-multiple-tools-with-multiple-versions)
-    - [x] [Add Android Emulator](https://gist.github.com/mkohlhaas/22fdcf05017e0ab834588bf327143673)
-- [x] Book: Flutter Apprentice (Third Edition) Learn to Build Cross-Platform Apps
-- [ ] FoundationDB and Dart
-    - [x] Recap Dart
-        - [x] [Dart-Apprentice-Fundamentals](https://github.com/mkohlhaas/Dart-Apprentice-Fundamentals)
-        - [x] [Dart-Apprentice-Beyond-Basics](https://github.com/mkohlhaas/Dart-Apprentice-Beyond-Basics)
-    - [x] [FoundationDB Installation on Void Linux](https://github.com/mkohlhaas/FoundationDB-Installation)
-    - [x] Read FoundationDB documentation
-        - [x] [Administration](https://apple.github.io/foundationdb/administration.html)
-        - [x] [Tutorials](https://apple.github.io/foundationdb/tutorials.html)
-        - [x] [Data Modeling](https://apple.github.io/foundationdb/data-modeling.html)
-        - [x] [Developer Guide](https://apple.github.io/foundationdb/developer-guide.html)
-        - [x] [Ruby API](https://apple.github.io/foundationdb/api-ruby.html)
-    - [ ] Dart Binding for FoundationDB
-        - [x] Youtube: [C interoperability with Dart FFI | Session ](https://www.youtube.com/watch?v=2MMK7YoFgaA&pp=ygUIZGFydCBmZmk%3D)
-            - [x] [Sample Code](https://github.com/mit-mit/ffi-talk/blob/main/sqlite_example/sqlite/lib/src/database/database.dart)
-        - [x] [Dart FFI Generator](https://github.com/dart-lang/ffigen)
-        - [x] [Official Bindings](https://github.com/apple/foundationdb/tree/main/bindings)
-        - [x] [Javascript Binding](https://github.com/josephg/node-foundationdb)
-        - [ ] [Dart Binding for FoundationDB](https://github.com/mkohlhaas/foundationdb)
-            - [x] Test with [Bindingtester](https://github.com/apple/foundationdb/tree/main/bindings/bindingtester)
-            - [x] Property Testing with [Glados](https://pub.dev/packages/glados)
-        - [ ] [Use case: Class Scheduling](https://apple.github.io/foundationdb/class-scheduling.html)
-        - [ ] Pharo Bindings
-            - [ ] For Object interface use Google Protocol Buffers
-- [ ] [Firebase and alternatives](https://docs.flame-engine.org/latest/#multiplayer-netcode)
-- [ ] Use existing [Dart Binding](https://pub.dev/packages/raylib) for [raylib](https://www.raylib.com/)
-    - [x] [raylib installation](https://gitlab.archlinux.org/archlinux/packaging/packages/raylib/-/blob/main/PKGBUILD)
-        - [raylib installation gist](https://gist.github.com/mkohlhaas/2251cb3e32ba0ac08af32e742582ec7a)
-    - [x] Create [Chipmunk Binding](https://github.com/slembcke/Chipmunk2D)
-        - [x] Too many inline functions which cannot be used in `dart:ffi`
-    - [ ] [Dart Port of Chipmunk: Stripepmunk](https://github.com/mkohlhaas/stripemunk)
-        - [ ] [CSharp Port of Chipmunk](https://github.com/netonjm/ChipmunkSharp)
-    - [ ] Chess with Flutter using [Stockfish](https://stockfishchess.org/)
-        - [ ] [Stockfish Chess Engine for Flutter](https://github.com/ArjanAswal/stockfish)
-        - [ ] [Lichess for Flutter](https://pub.dev/publishers/lichess.org/packages)
-    - [ ] [ZType clone](https://zty.pe/) using FoundationDB for login, high score, etc...
-        - [ ] ... and the like
+- [ ] Book: "Professional CMake: A Practical Guide"
+    - [ ] Part I: Getting Started
+    - [ ] Part II: Fundamentals
+- [ ] OpenGL with Raylib
+    - [ ] rlgl
+- [ ] OpenCL
