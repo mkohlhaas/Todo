@@ -1,6 +1,6 @@
 - [ ] Book: "Professional CMake: A Practical Guide"
     - [ ] Part I: Getting Started
     - [ ] Part II: Fundamentals
-- [ ] OpenGL with Raylib
-    - [ ] rlgl
+- [ ] rlgl (Raylib)
+    - [ ] Book: "Grundlagen der Computergrafik Eine Einführung mit OpenGL und Java"
 - [ ] OpenCL
