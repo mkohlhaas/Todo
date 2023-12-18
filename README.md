@@ -1,4 +1,4 @@
 - [x] CMake
 - [ ] rlgl (Raylib)
-    - [ ] Book: "Grundlagen der Computergrafik Eine Einführung mit OpenGL und Java"
+    - [ ] Book: [3D Math Primer for Graphics and Game Development.](https://gamemath.com/)
 - [ ] OpenCL
