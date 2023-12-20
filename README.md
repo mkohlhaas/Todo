@@ -1,4 +1,4 @@
 - [x] CMake
 - [ ] rlgl (Raylib)
-    - [ ] Book: [3D Math Primer for Graphics and Game Development.](https://gamemath.com/)
+    - [x] Book: [3D Math Primer for Graphics and Game Development.](https://gamemath.com/)
 - [ ] OpenCL
