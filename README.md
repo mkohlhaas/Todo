@@ -1,4 +1,12 @@
 - [x] CMake
-- [ ] rlgl (Raylib)
-    - [x] Book: [3D Math Primer for Graphics and Game Development.](https://gamemath.com/)
+- [x] Book: [3D Math Primer for Graphics and Game Development.](https://gamemath.com/)
 - [ ] OpenCL
+  - [Hands On OpenCL](https://github.com/HandsOnOpenCL/Exercises-Solutions)
+    - [Slides](https://github.com/HandsOnOpenCL/Lecture-Slides)
+    - [ ] Convert code to more Modern C:
+      - [ ] [Automating the build using CMake](https://github.com/KhronosGroup/OpenCL-Guide/blob/main/chapters/getting_started_linux.md#automating-the-build-using-cmake)
+      - [ ] [P99 by Jens Gustedt](https://gitlab.inria.fr/gustedt/p99)
+        - try...catch, RAII, GCC cleanup,...
+  - [ ] Book: [OpenCL Programming Guide](https://github.com/bgaster/opencl-book-samples)
+  - [ ] Skim over examples in these books: ~/Books/OpenCL/
+- [ ] Gaussian Splatting
