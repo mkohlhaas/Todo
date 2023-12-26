@@ -10,6 +10,7 @@
       - [x] [P99 by Jens Gustedt](https://gitlab.inria.fr/gustedt/p99)
         - [x] try...catch, RAII, GCC cleanup,...
   - [ ] Book: [OpenCL Programming Guide](https://github.com/bgaster/opencl-book-samples)
+    - [ ] [My own repo](https://github.com/mkohlhaas/OpenCL-Programming-Guide)
   - [ ] Skim over examples in these books: ~/Books/OpenCL/
 - [ ] Gaussian Splatting
 - [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c)
