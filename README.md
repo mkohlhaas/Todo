@@ -1,16 +1,7 @@
-- [x] CMake
-- [x] Book: [3D Math Primer for Graphics and Game Development.](https://gamemath.com/)
 - [ ] OpenCL
   - [ ] Scaffolding project
-  - [x] [Hands On OpenCL](https://github.com/HandsOnOpenCL/Exercises-Solutions)
-    - [x] [Slides](https://github.com/HandsOnOpenCL/Lecture-Slides)
-    - [x] Convert code to more Modern C:
-      - [x] [Automating the build using CMake](https://github.com/KhronosGroup/OpenCL-Guide/blob/main/chapters/getting_started_linux.md#automating-the-build-using-cmake)
-      - [x] [Example OpenCL program with C++ and CMake](https://gist.github.com/jarutis/a64eaa38c1caaf7bc3d28cea64bb8359)
-      - [x] [P99 by Jens Gustedt](https://gitlab.inria.fr/gustedt/p99)
-        - [x] try...catch, RAII, GCC cleanup,...
-  - [ ] Book: [OpenCL Programming Guide](https://github.com/bgaster/opencl-book-samples)
-    - [ ] [My own repo](https://github.com/mkohlhaas/OpenCL-Programming-Guide)
-  - [ ] Skim over examples in these books: ~/Books/OpenCL/
+  - [ ] OpenCL in Action
+- [ ] Ten minutes physics
+  - [ ] [16 Simulation on the GPU](https://matthias-research.github.io/pages/tenMinutePhysics/16-GPUSimulation.pdf)
 - [ ] Gaussian Splatting
 - [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c)
