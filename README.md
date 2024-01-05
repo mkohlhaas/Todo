@@ -1,7 +1,14 @@
 - [ ] OpenCL
-  - [ ] Scaffolding project
   - [ ] OpenCL in Action
+  - [x] Scaffolding project
+- [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c)
+- [ ] [Cern Root](https://root.cern/get_started/courses/)
+    - [ ] [CERN Root](https://www.youtube.com/playlist?list=PLLybgCU6QCGWLdDO4ZDaB0kLrO3maeYAe)
+    - [ ] [CERN Root](https://www.youtube.com/playlist?list=PLJZI0Nq8pgrScd_mR_ruxXD7N8dxFZtXv)
+    - [ ] [CERN Root](https://www.youtube.com/playlist?list=PL1m-cyaQQU42XtJmzr9ztC-GmySlOiADM)
+    - [ ] [CERN Root](https://www.youtube.com/playlist?list=PLx6HeelQweQjtSBQc4nKnFjlCmfR38B8S)
+- [ ] [12 steps to Navier-Stokes](https://github.com/barbagroup/CFDPython)
+    - [ ] Port to C with Cern Root
 - [ ] Ten minutes physics
   - [ ] [16 Simulation on the GPU](https://matthias-research.github.io/pages/tenMinutePhysics/16-GPUSimulation.pdf)
-- [ ] Gaussian Splatting
-- [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c)
+- [ ] [ME 702 - Computational Fluid Dynamics](https://youtube.com/playlist?list=PL30F4C5ABCE62CB61&si=5SAH4esMxM4gdv4b)
