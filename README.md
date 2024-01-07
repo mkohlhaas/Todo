@@ -1,6 +1,14 @@
 - [ ] OpenCL
-  - [ ] OpenCL in Action
+  - [ ] OpenCL in Action (19.01.2024)
   - [x] Scaffolding project
-- [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c)
-- [ ] Ten minutes physics
-  - [ ] [16 Simulation on the GPU](https://matthias-research.github.io/pages/tenMinutePhysics/16-GPUSimulation.pdf)
+- [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c) (31.01.2024)
+  - [ ] [Macros](https://github.com/Hirrolot/awesome-c-preprocessor)
+- [ ] Physics Simulation
+  - [ ] Ten minutes physics
+    - [ ] [16 Simulation on the GPU](https://matthias-research.github.io/pages/tenMinutePhysics/16-GPUSimulation.pdf)
+- [ ] Gesture Input
+  - [ ] Hand recognition
+  - [ ] Face recognition
+- [ ] Shader Language (interop OpenCL & OpenGL)
+- [ ] Modelling Tool ? (e.g. Blender, FreeCAD, ... ?)
+  - [ ] Import models
