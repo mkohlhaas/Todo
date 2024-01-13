@@ -1,5 +1,6 @@
 - [ ] OpenCL
   - [ ] OpenCL in Action (19.01.2024)
+    - [ ] Bitonic sort
   - [x] Scaffolding project
 - [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c) (31.01.2024)
   - [ ] [Macros](https://github.com/Hirrolot/awesome-c-preprocessor)
