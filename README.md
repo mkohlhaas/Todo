@@ -2,6 +2,10 @@
   - [ ] OpenCL in Action (19.01.2024)
     - [ ] Bitonic sort
   - [x] Scaffolding project
+- [ ] [GLFW](https://www.glfw.org/)
+  - [ ] Interop with OpenCL
+  - [ ] [Test Code](https://forums.developer.nvidia.com/t/opencl-gl-interop-context-crashes-on-linux-with-segmentation-fault-driver-390-25/58872)
+- [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
 - [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c) (31.01.2024)
   - [ ] [Macros](https://github.com/Hirrolot/awesome-c-preprocessor)
 - [ ] Physics Simulation
