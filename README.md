@@ -3,6 +3,7 @@
     - [ ] Bitonic sort
   - [x] Scaffolding project
 - [ ] [GLFW](https://www.glfw.org/)
+  - [ ] [Programming OpenGL in Linux: GLX and Xlib](https://www.khronos.org/opengl/wiki/Programming_OpenGL_in_Linux:_GLX_and_Xlib)
   - [ ] Interop with OpenCL
   - [ ] [Test Code](https://forums.developer.nvidia.com/t/opencl-gl-interop-context-crashes-on-linux-with-segmentation-fault-driver-390-25/58872)
 - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
