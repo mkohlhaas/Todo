@@ -1,7 +1,20 @@
 - [ ] [Vulkan Tutorial](https://vulkan-tutorial.com/)
+  - [ ] [Understanding Vulkan® Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
+      - [ ] Make own diagram
+  - [ ] Shadertoy compatible desktop version in Vulkan
+  - [ ] [Shader programming: From absolute beginner to demoscene superstar](https://clauswilke.com/art/post/shaders)
+  - [ ] [Art of Code - ShaderToy Tutorials](https://www.youtube.com/playlist?list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5)
+  - [ ] [Art of Code - Ray Marching](https://www.youtube.com/playlist?list=PLGmrMu-IwbgtMxMiV3x4IrHPlPmg7FD-P)
+  - [ ] GUI with [NanoVG for Vulkan](https://github.com/danilw/nanovg_vulkan)
+  - [ ] Compute Shaders
+  - [ ] Gaussian splatting / Photogrammetry
+  - [ ] Fluid system
 - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
-- [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c) (31.01.2024)
+- [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c)
   - [ ] [Macros](https://github.com/Hirrolot/awesome-c-preprocessor)
+  - [ ] [Arenas, strings and Scuffed Templates in C](https://www.youtube.com/watch?v=3IAlJSIjvH0)
+      - See links in the description
+  - [ ] [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
 - [ ] Physics Simulation
   - [ ] Ten minutes physics
     - [ ] [16 Simulation on the GPU](https://matthias-research.github.io/pages/tenMinutePhysics/16-GPUSimulation.pdf)
