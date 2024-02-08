@@ -9,7 +9,6 @@
     - [ ] [RenderPass and how Subpass relates to them](https://www.reddit.com/r/vulkan/comments/noi5dg/comment/h02shje/?utm_source=share&utm_medium=web2x&context=3)
     - [ ] [What is the difference between framebuffer and image in Vulkan?](https://stackoverflow.com/questions/39557141/what-is-the-difference-between-framebuffer-and-image-in-vulkan/39559418#39559418)
     - [ ] [Understanding Vulkan Synchronization](https://www.khronos.org/blog/understanding-vulkan-synchronization)
-    - [ ] [How to recreate swapchain after vkAcquireNextImageKHR is VK_SUBOPTIMAL_KHR?](https://stackoverflow.com/questions/70762372/how-to-recreate-swapchain-after-vkacquirenextimagekhr-is-vk-suboptimal-khr)
 - [ ] Shadertoy compatible desktop version in Vulkan
 - [ ] [Shader programming: From absolute beginner to demoscene superstar](https://clauswilke.com/art/post/shaders)
 - [ ] [Art of Code - ShaderToy Tutorials](https://www.youtube.com/playlist?list=PLGmrMu-IwbguU_nY2egTFmlg691DN7uE5)
