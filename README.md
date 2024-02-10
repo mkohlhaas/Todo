@@ -1,6 +1,7 @@
 - [ ] [Vulkan Tutorial](https://vulkan-tutorial.com/)
 - [ ] [Understanding Vulkan® Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
     - [ ] Make own diagram
+    - [ ] Wavefront Object parser (Flex, Bison, glib → use [N-ary Trees](https://docs.gtk.org/glib/struct.Node.html))
     - [ ] [Adding secondary command buffers to PanVk](https://www.collabora.com/news-and-blog/blog/2022/06/15/adding-secondary-command-buffers-to-panvk-driver/)
     - [ ] [Instanced Rendering](https://www.khronos.org/opengl/wiki/Vertex_Rendering#Instancing)
     - [ ] [New game changing Vulkan extensions for mobile: Timeline Semaphores](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/vulkan-timeline-semaphores)
