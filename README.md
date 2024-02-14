@@ -1,7 +1,8 @@
 - [x] flex & bison book
 - [x] wordcount in flex
-- [ ] Wavefront Object parser (Flex, Bison, glib → use [N-ary Trees](https://docs.gtk.org/glib/struct.Node.html))
-  - [ ] [Wavefront's obj file by Bison and Flex](https://github.com/quakerntj/obj2binary)
+- [x] Wavefront Object parser (flex, bison, glib)
+    - [ ] Incorporate into [Vulkan Tutorial](https://vulkan-tutorial.com/).
+    - [x] Sample project with Glib Regexp.
 - [ ] [Vulkan Tutorial](https://vulkan-tutorial.com/) till model loading
   - [ ] [Understanding Vulkan® Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
       - [ ] Make own diagram
@@ -14,9 +15,12 @@
       - [ ] [What is the difference between framebuffer and image in Vulkan?](https://stackoverflow.com/questions/39557141/what-is-the-difference-between-framebuffer-and-image-in-vulkan/39559418#39559418)
       - [ ] [Understanding Vulkan Synchronization](https://www.khronos.org/blog/understanding-vulkan-synchronization)
 - [ ] Triangulation, mesh generation
+  - [ ] Port of [An incredibly fast JavaScript library for Delaunay triangulation of 2D points](https://github.com/mapbox/delaunator) to C.
+  - [x] [Delaunay Triangulation and Voronoi Diagrams](https://www.gorillasun.de/blog/delaunay-triangulation-and-voronoi-diagrams/)
 - [ ] GUI with [NanoVG for Vulkan](https://github.com/danilw/nanovg_vulkan)
-- [ ] Compute Shaders
+- [ ] [Compute Shaders](https://vulkan-tutorial.com/Compute_Shader)
 - [ ] Fluid system
+  - [ ] Fluid system & Triangulation.
 - [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
 - [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c)
   - [ ] [Macros](https://github.com/Hirrolot/awesome-c-preprocessor)
