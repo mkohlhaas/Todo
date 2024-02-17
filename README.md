@@ -1,7 +1,12 @@
 - [x] flex & bison book
 - [x] wordcount in flex
 - [x] Wavefront Object parser (flex, bison, glib)
-    - [ ] Incorporate into [Vulkan Tutorial](https://vulkan-tutorial.com/).
+    - [ ] [Tutorial 3 : Matrices](https://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/)
+    - [ ] Port of [Trackball.js](https://github.com/rawify/Trackball.js)
+    - [ ] [Trackball](https://github.com/syoyo/tinyobjloader-c/tree/master/examples/viewer)
+      - [ ] [Trackball Rotation using Quaternions](https://www.xarg.org/2021/07/trackball-rotation-using-quaternions/)
+      - [ ] [Maths - Quaternions](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/index.htm)
+    - [x] Incorporate into [Vulkan Tutorial](https://vulkan-tutorial.com/).
     - [x] Sample project with Glib Regexp.
 - [ ] [Vulkan Tutorial](https://vulkan-tutorial.com/) till model loading
   - [ ] [Understanding Vulkan® Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
