@@ -1,5 +1,6 @@
 - [x] flex & bison book
 - [x] wordcount in flex
+- [ ] Book: Fundamentals of Computer Graphics, up to chapter 9 (The Graphics Pipeline)
 - [x] Wavefront Object parser (flex, bison, glib)
     - [ ] [Tutorial 3 : Matrices](https://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/)
     - [ ] Port of [Trackball.js](https://github.com/rawify/Trackball.js)
