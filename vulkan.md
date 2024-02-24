@@ -1,0 +1,15 @@
+- [ ] [Understanding Vulkan® Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
+    - [ ] Make own diagram
+    - [ ] [Adding secondary command buffers to PanVk](https://www.collabora.com/news-and-blog/blog/2022/06/15/adding-secondary-command-buffers-to-panvk-driver/)
+    - [ ] [Instanced Rendering](https://www.khronos.org/opengl/wiki/Vertex_Rendering#Instancing)
+    - [ ] [New game changing Vulkan extensions for mobile: Timeline Semaphores](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/vulkan-timeline-semaphores)
+    - [ ] [Subpass Dependencies: What are those and why do I need them?](https://www.reddit.com/r/vulkan/comments/s80reu/comment/hth2uj9/?utm_source=share&utm_medium=web2x&context=3)
+    - [ ] [What is actually a Queue family in Vulkan?](https://stackoverflow.com/questions/55272626/what-is-actually-a-queue-family-in-vulkan/55273688#55273688)
+    - [ ] [RenderPass and how Subpass relates to them](https://www.reddit.com/r/vulkan/comments/noi5dg/comment/h02shje/?utm_source=share&utm_medium=web2x&context=3)
+    - [ ] [What is the difference between framebuffer and image in Vulkan?](https://stackoverflow.com/questions/39557141/what-is-the-difference-between-framebuffer-and-image-in-vulkan/39559418#39559418)
+    - [ ] [Understanding Vulkan Synchronization](https://www.khronos.org/blog/understanding-vulkan-synchronization)
+- [ ] GUI with [NanoVG for Vulkan](https://github.com/danilw/nanovg_vulkan)
+- [ ] [Compute Shaders](https://vulkan-tutorial.com/Compute_Shader)
+- [ ] Gesture Input
+  - [ ] Hand recognition
+  - [ ] Face recognition

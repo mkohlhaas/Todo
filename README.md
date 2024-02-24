@@ -1,41 +1,9 @@
-- [x] flex & bison book
-- [x] wordcount in flex
 - [ ] Book: Fundamentals of Computer Graphics, up to chapter 9 (The Graphics Pipeline)
-- [x] Wavefront Object parser (flex, bison, glib)
-    - [ ] [Tutorial 3 : Matrices](https://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/)
-    - [ ] Port of [Trackball.js](https://github.com/rawify/Trackball.js)
-    - [ ] [Trackball](https://github.com/syoyo/tinyobjloader-c/tree/master/examples/viewer)
-      - [ ] [Trackball Rotation using Quaternions](https://www.xarg.org/2021/07/trackball-rotation-using-quaternions/)
-      - [ ] [Maths - Quaternions](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/index.htm)
-    - [x] Incorporate into [Vulkan Tutorial](https://vulkan-tutorial.com/).
-    - [x] Sample project with Glib Regexp.
-- [ ] [Vulkan Tutorial](https://vulkan-tutorial.com/) till model loading
-  - [ ] [Understanding Vulkan® Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
-      - [ ] Make own diagram
-      - [ ] [Adding secondary command buffers to PanVk](https://www.collabora.com/news-and-blog/blog/2022/06/15/adding-secondary-command-buffers-to-panvk-driver/)
-      - [ ] [Instanced Rendering](https://www.khronos.org/opengl/wiki/Vertex_Rendering#Instancing)
-      - [ ] [New game changing Vulkan extensions for mobile: Timeline Semaphores](https://community.arm.com/arm-community-blogs/b/graphics-gaming-and-vr-blog/posts/vulkan-timeline-semaphores)
-      - [ ] [Subpass Dependencies: What are those and why do I need them?](https://www.reddit.com/r/vulkan/comments/s80reu/comment/hth2uj9/?utm_source=share&utm_medium=web2x&context=3)
-      - [ ] [What is actually a Queue family in Vulkan?](https://stackoverflow.com/questions/55272626/what-is-actually-a-queue-family-in-vulkan/55273688#55273688)
-      - [ ] [RenderPass and how Subpass relates to them](https://www.reddit.com/r/vulkan/comments/noi5dg/comment/h02shje/?utm_source=share&utm_medium=web2x&context=3)
-      - [ ] [What is the difference between framebuffer and image in Vulkan?](https://stackoverflow.com/questions/39557141/what-is-the-difference-between-framebuffer-and-image-in-vulkan/39559418#39559418)
-      - [ ] [Understanding Vulkan Synchronization](https://www.khronos.org/blog/understanding-vulkan-synchronization)
+- [ ] [Tutorial 3 : Matrices](https://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/)
+- [ ] [Vulkan Tutorial](https://vulkan-tutorial.com/) up to model loading
+- [ ] Port of [Trackball.js](https://github.com/rawify/Trackball.js)
+  - [ ] [Trackball](https://github.com/syoyo/tinyobjloader-c/tree/master/examples/viewer)
+    - [ ] [Trackball Rotation using Quaternions](https://www.xarg.org/2021/07/trackball-rotation-using-quaternions/)
+    - [ ] [Maths - Quaternions](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/index.htm)
 - [ ] Triangulation, mesh generation
   - [ ] Port of [An incredibly fast JavaScript library for Delaunay triangulation of 2D points](https://github.com/mapbox/delaunator) to C.
-  - [x] [Delaunay Triangulation and Voronoi Diagrams](https://www.gorillasun.de/blog/delaunay-triangulation-and-voronoi-diagrams/)
-- [ ] GUI with [NanoVG for Vulkan](https://github.com/danilw/nanovg_vulkan)
-- [ ] [Compute Shaders](https://vulkan-tutorial.com/Compute_Shader)
-- [ ] Fluid system
-  - [ ] Fluid system & Triangulation.
-- [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
-- [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c)
-  - [ ] [Macros](https://github.com/Hirrolot/awesome-c-preprocessor)
-  - [ ] [Arenas, strings and Scuffed Templates in C](https://www.youtube.com/watch?v=3IAlJSIjvH0)
-      - See links in the description
-  - [ ] [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
-- [ ] Physics Simulation
-  - [ ] Ten minutes physics
-    - [ ] [16 Simulation on the GPU](https://matthias-research.github.io/pages/tenMinutePhysics/16-GPUSimulation.pdf)
-- [ ] Gesture Input
-  - [ ] Hand recognition
-  - [ ] Face recognition
