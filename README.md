@@ -1,4 +1,4 @@
-- [ ] Book: Fundamentals of Computer Graphics, up to chapter 9 (The Graphics Pipeline)
+- [ ] Book: Math for 3D Game Programming
 - [ ] [Tutorial 3 : Matrices](https://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/)
 - [ ] [Vulkan Tutorial](https://vulkan-tutorial.com/) up to model loading
 - [ ] Port of [Trackball.js](https://github.com/rawify/Trackball.js)
