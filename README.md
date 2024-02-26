@@ -1,3 +1,5 @@
+- [ ] [Introduction to OpenGL](https://www.youtube.com/watch?v=Q7vm264YNrM&list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox)
+- [ ] [WebGL Fundamentals](https://webglfundamentals.org/)
 - [ ] [Tutorial 3 : Matrices](https://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/)
 - [ ] [Vulkan Tutorial](https://vulkan-tutorial.com/) up to model loading
 - [ ] Port of [Trackball.js](https://github.com/rawify/Trackball.js)
