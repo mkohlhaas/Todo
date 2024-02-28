@@ -1,4 +1,4 @@
-- [ ] [Introduction to OpenGL](https://www.youtube.com/watch?v=Q7vm264YNrM&list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox)
+- [x] [Introduction to OpenGL](https://www.youtube.com/watch?v=Q7vm264YNrM&list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox)
 - [ ] Learn OpenGL
   - [ ] [Transformations](https://learnopengl.com/Getting-started/Transformations)
   - [ ] [Coordinate Systems](https://learnopengl.com/Getting-started/Coordinate-Systems)
