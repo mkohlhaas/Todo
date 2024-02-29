@@ -1,0 +1,4 @@
+- [ ] [WebGL Fundamentals](https://webglfundamentals.org/)
+- [ ] [How to create a Web Assembly — WebGL project in C](https://medium.com/@meric.emmanuel/how-to-create-a-web-assembly-webgl-project-in-c-e1a0b64b0a5e)
+- [ ] [Figma](https://www.figma.com/)
+- [ ] [Quadratic](https://www.quadratichq.com/)
