@@ -4,11 +4,12 @@
   - [x] [Coordinate Systems](https://learnopengl.com/Getting-started/Coordinate-Systems)
   - [x] [Camera](https://learnopengl.com/Getting-started/Camera)
 - [x] [Tutorial 3 : Matrices](https://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/)
+- [x] [Vulkan Tutorial](https://vulkan-tutorial.com/) up to model loading
+- [ ] [Vulkan in C++](https://www.youtube.com/watch?v=mzVFHEmnRLg&list=PL58qjcU5nk8uH9mmlASm4SFy1yuPzDAH0)
 - [ ] Shading (Phong-Blinn)
   - [ ] [Phong Shading](https://www.cs.toronto.edu/~jacobson/phong-demo/)
   - [ ] [Gouraud & Phong Shading](https://github.com/ruange/Gouraud-Shading-and-Phong-Shading)
   - [ ] [Blinn–Phong reflection model](https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_reflection_model)
-- [ ] [Vulkan Tutorial](https://vulkan-tutorial.com/) up to model loading
 - [ ] Port of [Trackball.js](https://github.com/rawify/Trackball.js)
   - [ ] [Trackball](https://github.com/syoyo/tinyobjloader-c/tree/master/examples/viewer)
     - [ ] [Trackball Rotation using Quaternions](https://www.xarg.org/2021/07/trackball-rotation-using-quaternions/)
