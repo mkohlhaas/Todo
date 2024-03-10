@@ -1,19 +1,11 @@
-- [x] [Introduction to OpenGL](https://www.youtube.com/watch?v=Q7vm264YNrM&list=PLvv0ScY6vfd9zlZkIIqGDeG5TUWswkMox)
-- [x] Learn OpenGL
-  - [x] [Transformations](https://learnopengl.com/Getting-started/Transformations)
-  - [x] [Coordinate Systems](https://learnopengl.com/Getting-started/Coordinate-Systems)
-  - [x] [Camera](https://learnopengl.com/Getting-started/Camera)
-- [x] [Tutorial 3 : Matrices](https://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/)
-- [x] [Vulkan Tutorial](https://vulkan-tutorial.com/) up to model loading
-- [x] [Vulkan in C++](https://www.youtube.com/watch?v=mzVFHEmnRLg&list=PL58qjcU5nk8uH9mmlASm4SFy1yuPzDAH0)
+- [ ] Vulkan Warnings
 - [ ] tinyobjloader-c (remove lexer)
-- [ ] Different Shaders (with keyboard shortcuts) via Push Constants
- - [ ] Phong
- - [ ] Normal
- - [ ] Cartoon
- - [ ] Wireframe
-- [ ] Check return values of vkFunctions
 - [ ] Texture Mapping
+- [ ] Different Shaders (with keyboard shortcuts) via Push Constants
+  - [ ] Phong
+  - [ ] Normal
+  - [ ] Cartoon
+  - [ ] Wireframe
 - [ ] Shading (Phong-Blinn)
   - [ ] [Phong Shading](https://www.cs.toronto.edu/~jacobson/phong-demo/)
   - [ ] [Gouraud & Phong Shading](https://github.com/ruange/Gouraud-Shading-and-Phong-Shading)
