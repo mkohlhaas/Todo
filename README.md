@@ -6,6 +6,14 @@
 - [x] [Tutorial 3 : Matrices](https://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/)
 - [x] [Vulkan Tutorial](https://vulkan-tutorial.com/) up to model loading
 - [x] [Vulkan in C++](https://www.youtube.com/watch?v=mzVFHEmnRLg&list=PL58qjcU5nk8uH9mmlASm4SFy1yuPzDAH0)
+- [ ] tinyobjloader-c (remove lexer)
+- [ ] Different Shaders (with keyboard shortcuts) via Push Constants
+ - [ ] Phong
+ - [ ] Normal
+ - [ ] Cartoon
+ - [ ] Wireframe
+- [ ] Check return values of vkFunctions
+- [ ] Texture Mapping
 - [ ] Shading (Phong-Blinn)
   - [ ] [Phong Shading](https://www.cs.toronto.edu/~jacobson/phong-demo/)
   - [ ] [Gouraud & Phong Shading](https://github.com/ruange/Gouraud-Shading-and-Phong-Shading)
