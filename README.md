@@ -5,7 +5,7 @@
   - [x] [Camera](https://learnopengl.com/Getting-started/Camera)
 - [x] [Tutorial 3 : Matrices](https://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/)
 - [x] [Vulkan Tutorial](https://vulkan-tutorial.com/) up to model loading
-- [ ] [Vulkan in C++](https://www.youtube.com/watch?v=mzVFHEmnRLg&list=PL58qjcU5nk8uH9mmlASm4SFy1yuPzDAH0)
+- [x] [Vulkan in C++](https://www.youtube.com/watch?v=mzVFHEmnRLg&list=PL58qjcU5nk8uH9mmlASm4SFy1yuPzDAH0)
 - [ ] Shading (Phong-Blinn)
   - [ ] [Phong Shading](https://www.cs.toronto.edu/~jacobson/phong-demo/)
   - [ ] [Gouraud & Phong Shading](https://github.com/ruange/Gouraud-Shading-and-Phong-Shading)
