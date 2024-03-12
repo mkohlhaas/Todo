@@ -1,4 +1,3 @@
-- [ ] Remove Texture Mapping
 - [ ] Different Shaders (with keyboard shortcuts) via Push Constants
   - [ ] Phong
     - [ ] Shading (Phong-Blinn)
