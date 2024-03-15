@@ -7,6 +7,7 @@
   - [ ] Normal
   - [ ] Cartoon
   - [ ] Wireframe
+- CMake (generator expressions)
 - [ ] Port of [Trackball.js](https://github.com/rawify/Trackball.js)
   - [ ] [Trackball](https://github.com/syoyo/tinyobjloader-c/tree/master/examples/viewer)
     - [ ] [Trackball Rotation using Quaternions](https://www.xarg.org/2021/07/trackball-rotation-using-quaternions/)
