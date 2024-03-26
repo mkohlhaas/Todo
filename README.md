@@ -7,10 +7,18 @@
   - [ ] Normal
   - [ ] Cartoon
   - [ ] Wireframe
+- [ ] [Dylan Falconer](https://substack.com/@falconerd)
+  - [ ] [Github memory allocators](https://github.com/Falconerd/memory_allocators)
+  - [ ] [The Arena - Custom Memory Allocators in C](https://bytesbeneath.com/p/the-arena-custom-memory-allocators?utm_source=profile&utm_medium=reader2)
+  - [ ] [Custom Strings in C](https://bytesbeneath.com/p/custom-strings-in-c?utm_source=profile&utm_medium=reader2)
+  - [ ] [Dynamic Arrays in C](https://bytesbeneath.com/p/dynamic-arrays-in-c?utm_source=profile&utm_medium=reader2)
 - [ ] Port of [Trackball.js](https://github.com/rawify/Trackball.js)
   - [ ] [Trackball](https://github.com/syoyo/tinyobjloader-c/tree/master/examples/viewer)
     - [ ] [Trackball Rotation using Quaternions](https://www.xarg.org/2021/07/trackball-rotation-using-quaternions/)
     - [ ] [Maths - Quaternions](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/index.htm)
+    - [ ] [YT Playlist: Dunjun Days](https://www.youtube.com/playlist?list=PLaQBLbMIApyKsxeAlIPp-Nk1kh36mMmo_)
+    - [ ] [cglm's quaternion implementation](https://github.com/recp/cglm)
+    - [ ] [Simple OpenGL obj viewer](https://github.com/syoyo/tinyobjloader-c/tree/master/examples/viewer)
 - [ ] [Vulkan Tutorial #031 [Deutsch] Einrichtung von ImGui](https://www.youtube.com/watch?v=PmVAwbboAfI&list=PLStQc0GqppuXgs6do23v_HKRrR32gJMm3&index=32&pp=iAQB)
 - [ ] Shadertoy clone with Vulkan dynamic rendering
 - [ ] [Check source code of NanoVG for Vulkan](https://github.com/danilw/nanovg_vulkan)
