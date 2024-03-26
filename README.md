@@ -4,9 +4,9 @@
       - [ ] [Phong Shading](https://www.cs.toronto.edu/~jacobson/phong-demo/)
       - [ ] [Gouraud & Phong Shading](https://github.com/ruange/Gouraud-Shading-and-Phong-Shading)
       - [ ] [Blinn–Phong reflection model](https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_reflection_model)
-  - [ ] Normal
   - [ ] Cartoon
-  - [ ] Wireframe
+  - [x] Normal
+  - [x] Wireframe
 - [ ] [Dylan Falconer](https://substack.com/@falconerd)
   - [ ] [Github memory allocators](https://github.com/Falconerd/memory_allocators)
   - [ ] [The Arena - Custom Memory Allocators in C](https://bytesbeneath.com/p/the-arena-custom-memory-allocators?utm_source=profile&utm_medium=reader2)
