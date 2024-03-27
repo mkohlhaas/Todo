@@ -1,4 +1,4 @@
-- [ ] Different Shaders (with keyboard shortcuts) via `Push Constants`
+- [x] Different Shaders (with keyboard shortcuts) via `Push Constants`
   - [x] Phong
     - [Phong Shading](https://www.cs.toronto.edu/~jacobson/phong-demo/)
     - [Gouraud & Phong Shading](https://github.com/ruange/Gouraud-Shading-and-Phong-Shading)
