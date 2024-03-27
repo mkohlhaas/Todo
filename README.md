@@ -1,9 +1,8 @@
 - [ ] Different Shaders (with keyboard shortcuts) via `Push Constants`
   - [x] Phong
-    - [x] Shading (Phong-Blinn)
-      - [Phong Shading](https://www.cs.toronto.edu/~jacobson/phong-demo/)
-      - [Gouraud & Phong Shading](https://github.com/ruange/Gouraud-Shading-and-Phong-Shading)
-      - [Blinn–Phong reflection model](https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_reflection_model)
+    - [Phong Shading](https://www.cs.toronto.edu/~jacobson/phong-demo/)
+    - [Gouraud & Phong Shading](https://github.com/ruange/Gouraud-Shading-and-Phong-Shading)
+    - [Blinn–Phong reflection model](https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_reflection_model)
   - [x] Cartoon
   - [x] Normal
   - [x] Wireframe
