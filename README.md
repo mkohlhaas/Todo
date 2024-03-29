@@ -1,18 +1,12 @@
-- [x] Different Shaders (with keyboard shortcuts) via `Push Constants`
-  - [x] Phong
-    - [Phong Shading](https://www.cs.toronto.edu/~jacobson/phong-demo/)
-    - [Gouraud & Phong Shading](https://github.com/ruange/Gouraud-Shading-and-Phong-Shading)
-    - [Blinn–Phong reflection model](https://en.wikipedia.org/wiki/Blinn%E2%80%93Phong_reflection_model)
-  - [x] Cartoon
-  - [x] Normal
-  - [x] Wireframe
 - [ ] Port of [Trackball.js](https://github.com/rawify/Trackball.js)
   - [ ] Book: `Quaternions for Computer Graphics` by John Vince.
-  - [YT Playlist: Dunjun Days](https://www.youtube.com/playlist?list=PLaQBLbMIApyKsxeAlIPp-Nk1kh36mMmo_)
+    - p. 32 root of -i
+    - p. 38 root of -i
   - [Trackball Rotation using Quaternions](https://www.xarg.org/2021/07/trackball-rotation-using-quaternions/)
-  - [Maths - Quaternions](http://www.euclideanspace.com/maths/algebra/realNormedAlgebra/quaternions/index.htm)
+  - [Quaternions](https://raw.org/book/algebra/quaternions/)
   - [cglm's quaternion implementation](https://github.com/recp/cglm)
-  - [Simple OpenGL obj viewer](https://github.com/syoyo/tinyobjloader-c/tree/master/examples/viewer)
+    - [Documentation](https://cglm.readthedocs.io/en/latest/quat.html)
+    - [Source Code](https://github.com/recp/cglm/blob/master/src/quat.c)
 - [ ] [Dylan Falconer](https://substack.com/@falconerd)
   - [Github memory allocators](https://github.com/Falconerd/memory_allocators)
   - [The Arena - Custom Memory Allocators in C](https://bytesbeneath.com/p/the-arena-custom-memory-allocators?utm_source=profile&utm_medium=reader2)
