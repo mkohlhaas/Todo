@@ -1,7 +1,5 @@
-- [ ] Port of [Trackball.js](https://github.com/rawify/Trackball.js)
-  - [ ] Book: `Quaternions for Computer Graphics` by John Vince.
-    - p. 32 root of -i
-    - p. 38 root of -i
+- [ ] Use in Vulkan tutorial: [Trackball.js](https://github.com/rawify/Trackball.js)
+  - [x] Book: `Quaternions for Computer Graphics` by John Vince.
   - [Trackball Rotation using Quaternions](https://www.xarg.org/2021/07/trackball-rotation-using-quaternions/)
   - [Quaternions](https://raw.org/book/algebra/quaternions/)
   - [cglm's quaternion implementation](https://github.com/recp/cglm)
