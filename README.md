@@ -1,11 +1,9 @@
-- [x] Use in Vulkan tutorial: [Trackball.js](https://github.com/rawify/Trackball.js)
-  - [x] Book: `Quaternions for Computer Graphics` by John Vince.
-  - [Trackball Rotation using Quaternions](https://www.xarg.org/2021/07/trackball-rotation-using-quaternions/)
-  - [cglm's quaternion implementation](https://github.com/recp/cglm)
-    - [Documentation](https://cglm.readthedocs.io/en/latest/quat.html)
-    - [Source Code](https://github.com/recp/cglm/blob/master/src/quat.c)
+- [ ] Vulkan dynamic rendering
+  - [Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples/)
+- [ ] [Kohi Game Engine](https://kohiengine.com/)
+- [ ] Shadertoy clone
 - [ ] [Vulkan Tutorial #031 [Deutsch] Einrichtung von ImGui](https://www.youtube.com/watch?v=PmVAwbboAfI&list=PLStQc0GqppuXgs6do23v_HKRrR32gJMm3&index=32&pp=iAQB)
-- [ ] Shadertoy clone with Vulkan dynamic rendering
+  - [Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples/)
 - [ ] [Dylan Falconer](https://substack.com/@falconerd)
   - [Github memory allocators](https://github.com/Falconerd/memory_allocators)
   - [The Arena - Custom Memory Allocators in C](https://bytesbeneath.com/p/the-arena-custom-memory-allocators?utm_source=profile&utm_medium=reader2)
