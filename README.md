@@ -1,17 +1,17 @@
-- [ ] Use in Vulkan tutorial: [Trackball.js](https://github.com/rawify/Trackball.js)
+- [x] Use in Vulkan tutorial: [Trackball.js](https://github.com/rawify/Trackball.js)
   - [x] Book: `Quaternions for Computer Graphics` by John Vince.
   - [Trackball Rotation using Quaternions](https://www.xarg.org/2021/07/trackball-rotation-using-quaternions/)
-  - [Quaternions](https://raw.org/book/algebra/quaternions/)
   - [cglm's quaternion implementation](https://github.com/recp/cglm)
     - [Documentation](https://cglm.readthedocs.io/en/latest/quat.html)
     - [Source Code](https://github.com/recp/cglm/blob/master/src/quat.c)
+- [ ] [Vulkan Tutorial #031 [Deutsch] Einrichtung von ImGui](https://www.youtube.com/watch?v=PmVAwbboAfI&list=PLStQc0GqppuXgs6do23v_HKRrR32gJMm3&index=32&pp=iAQB)
+- [ ] Shadertoy clone with Vulkan dynamic rendering
 - [ ] [Dylan Falconer](https://substack.com/@falconerd)
   - [Github memory allocators](https://github.com/Falconerd/memory_allocators)
   - [The Arena - Custom Memory Allocators in C](https://bytesbeneath.com/p/the-arena-custom-memory-allocators?utm_source=profile&utm_medium=reader2)
   - [Custom Strings in C](https://bytesbeneath.com/p/custom-strings-in-c?utm_source=profile&utm_medium=reader2)
   - [Dynamic Arrays in C](https://bytesbeneath.com/p/dynamic-arrays-in-c?utm_source=profile&utm_medium=reader2)
-- [ ] [Vulkan Tutorial #031 [Deutsch] Einrichtung von ImGui](https://www.youtube.com/watch?v=PmVAwbboAfI&list=PLStQc0GqppuXgs6do23v_HKRrR32gJMm3&index=32&pp=iAQB)
-- [ ] Shadertoy clone with Vulkan dynamic rendering
+- [ ] Android audio visualizer from Shadertoy code.
 - [ ] [Check source code of NanoVG for Vulkan](https://github.com/danilw/nanovg_vulkan)
 - [ ] Port of [An incredibly fast JavaScript library for Delaunay triangulation of 2D points](https://github.com/mapbox/delaunator) to C.
   - Tags: triangulation, mesh generation
