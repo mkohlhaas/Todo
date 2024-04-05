@@ -1,6 +1,20 @@
+- [ ] C libaries from
+  - [ ] [Pointers in C Programming](https://github.com/mkohlhaas/Pointers-C-Programming)
+  - [ ] [String Algorithms in C](https://link.springer.com/book/10.1007/978-1-4842-5920-7)
+  - [ ] [The Joys of Hashing](https://link.springer.com/book/10.1007/978-1-4842-4066-3)
+    - hash table is also in [Simple OpenGL obj viewer](https://github.com/syoyo/tinyobjloader-c/blob/master/tinyobj_loader_c.h#L595)
+  - [ ] [Kohi Game Engine](https://kohiengine.com/) (logger, linear memory allocator/arena?, hash table?)
+  - Remarks testing C code:
+    - [rr debug](https://rr-project.org/)
+    - Scenario testing with CTest (from simple unit tests to real-world scenarios)
+    - Test from the standpoint of the developer and check internals.
+    - [Run failed tests in rr](https://stackoverflow.com/questions/46981168/how-to-run-ctest-test-in-debugger) ...
+    - ... or record every test run.
+    - Run with sanitizers (address sanitizer = asan)
 - [ ] Vulkan dynamic rendering
   - [Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples/)
-- [ ] [Kohi Game Engine](https://kohiengine.com/)
+- [ ] Refactor [Vulkan Tutorial #1](https://github.com/mkohlhaas/Vulkan-Tut-1) into a new repo ...
+  - ... using ideas from [Kohi Game Engine](https://kohiengine.com/) and dynamic rendering.
 - [ ] Shadertoy clone
 - [ ] [Vulkan Tutorial #031 [Deutsch] Einrichtung von ImGui](https://www.youtube.com/watch?v=PmVAwbboAfI&list=PLStQc0GqppuXgs6do23v_HKRrR32gJMm3&index=32&pp=iAQB)
   - [Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples/)
