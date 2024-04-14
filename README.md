@@ -1,29 +1,16 @@
-- [ ] C libaries from
-  - [ ] [Pointers in C Programming](https://github.com/mkohlhaas/Pointers-C-Programming)
-  - [ ] [String Algorithms in C](https://link.springer.com/book/10.1007/978-1-4842-5920-7)
-  - [ ] [The Joys of Hashing](https://link.springer.com/book/10.1007/978-1-4842-4066-3)
+- [ ] C Programming
+  - [Pointers in C Programming](https://github.com/mkohlhaas/Pointers-C-Programming)
+  - [The Joys of Hashing](https://link.springer.com/book/10.1007/978-1-4842-4066-3)
     - hash table is also in [Simple OpenGL obj viewer](https://github.com/syoyo/tinyobjloader-c/blob/master/tinyobj_loader_c.h#L595)
-  - [ ] [Kohi Game Engine](https://kohiengine.com/) (logger, linear memory allocator/arena?, hash table?)
-  - Remarks testing C code:
-    - [rr debug](https://rr-project.org/)
-    - Scenario testing with CTest (from simple unit tests to real-world scenarios)
-    - Test from the standpoint of the developer and check internals.
-    - [Run failed tests in rr](https://stackoverflow.com/questions/46981168/how-to-run-ctest-test-in-debugger) ...
-    - ... or record every test run.
-    - Run with sanitizers (address sanitizer = asan)
+  - [Kohi Game Engine](https://kohiengine.com/) (logger, linear memory allocator/arena?, hash table?)
 - [ ] Vulkan dynamic rendering
   - [Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples/)
-- [ ] Refactor [Vulkan Tutorial #1](https://github.com/mkohlhaas/Vulkan-Tut-1) into a new repo ...
-  - ... using ideas from [Kohi Game Engine](https://kohiengine.com/) and dynamic rendering.
-- [ ] Shadertoy clone
 - [ ] [Vulkan Tutorial #031 [Deutsch] Einrichtung von ImGui](https://www.youtube.com/watch?v=PmVAwbboAfI&list=PLStQc0GqppuXgs6do23v_HKRrR32gJMm3&index=32&pp=iAQB)
   - [Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples/)
-- [ ] [Dylan Falconer](https://substack.com/@falconerd)
-  - [Github memory allocators](https://github.com/Falconerd/memory_allocators)
-  - [The Arena - Custom Memory Allocators in C](https://bytesbeneath.com/p/the-arena-custom-memory-allocators?utm_source=profile&utm_medium=reader2)
-  - [Custom Strings in C](https://bytesbeneath.com/p/custom-strings-in-c?utm_source=profile&utm_medium=reader2)
-  - [Dynamic Arrays in C](https://bytesbeneath.com/p/dynamic-arrays-in-c?utm_source=profile&utm_medium=reader2)
-- [ ] Android audio visualizer from Shadertoy code.
 - [ ] [Check source code of NanoVG for Vulkan](https://github.com/danilw/nanovg_vulkan)
+  - [CodePen Fluid by Ben Matthews](https://codepen.io/tsuhre/pen/XVGbqV)
 - [ ] Port of [An incredibly fast JavaScript library for Delaunay triangulation of 2D points](https://github.com/mapbox/delaunator) to C.
+  - [Use Go port as reference](https://github.com/fogleman/delaunay)
+  - [Delaunay & Voronoi on a Sphere](https://www.redblobgames.com/x/1842-delaunay-voronoi-sphere/)
   - Tags: triangulation, mesh generation
+- [ ] Shadertoy clone
