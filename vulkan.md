@@ -13,3 +13,10 @@
 - [ ] Gesture Input
   - [ ] Hand recognition
   - [ ] Face recognition
+- [ ] Vulkan dynamic rendering
+  - [Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples/)
+- [ ] [Vulkan Tutorial #031 [Deutsch] Einrichtung von ImGui](https://www.youtube.com/watch?v=PmVAwbboAfI&list=PLStQc0GqppuXgs6do23v_HKRrR32gJMm3&index=32&pp=iAQB)
+  - [Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples/)
+- [ ] [Check source code of NanoVG for Vulkan](https://github.com/danilw/nanovg_vulkan)
+  - [CodePen Fluid by Ben Matthews](https://codepen.io/tsuhre/pen/XVGbqV)
+- [ ] Shadertoy clone

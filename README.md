@@ -1,16 +1,21 @@
 - [ ] C Programming
   - [Pointers in C Programming](https://github.com/mkohlhaas/Pointers-C-Programming)
-  - [The Joys of Hashing](https://link.springer.com/book/10.1007/978-1-4842-4066-3)
-    - hash table is also in [Simple OpenGL obj viewer](https://github.com/syoyo/tinyobjloader-c/blob/master/tinyobj_loader_c.h#L595)
-  - [Kohi Game Engine](https://kohiengine.com/) (logger, linear memory allocator/arena?, hash table?)
-- [ ] Vulkan dynamic rendering
-  - [Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples/)
-- [ ] [Vulkan Tutorial #031 [Deutsch] Einrichtung von ImGui](https://www.youtube.com/watch?v=PmVAwbboAfI&list=PLStQc0GqppuXgs6do23v_HKRrR32gJMm3&index=32&pp=iAQB)
-  - [Vulkan Samples](https://github.com/KhronosGroup/Vulkan-Samples/)
-- [ ] [Check source code of NanoVG for Vulkan](https://github.com/danilw/nanovg_vulkan)
-  - [CodePen Fluid by Ben Matthews](https://codepen.io/tsuhre/pen/XVGbqV)
+  - [The Joys of Hashing](https://github.com/mkohlhaas/Joys-of-Hashing)
+    - Hash table implementation is also in [Simple OpenGL obj viewer](https://github.com/syoyo/tinyobjloader-c/blob/master/tinyobj_loader_c.h#L595)
+  - K-d tree
+  - Red-black tree
+  - [Kohi Game Engine](https://kohiengine.com/)
+    - logger
+    - linear memory allocator/arena
+    - hash table
+    - math library
 - [ ] Port of [An incredibly fast JavaScript library for Delaunay triangulation of 2D points](https://github.com/mapbox/delaunator) to C.
   - [Use Go port as reference](https://github.com/fogleman/delaunay)
   - [Delaunay & Voronoi on a Sphere](https://www.redblobgames.com/x/1842-delaunay-voronoi-sphere/)
   - Tags: triangulation, mesh generation
-- [ ] Shadertoy clone
+- [ ] Image Vectorization
+  - [Potrace](https://potrace.sourceforge.net/)
+    - Search also for the many ports (JavaScript, Go, …)
+  - [VTracer](https://github.com/visioncortex/vtracer)
+- [ ] [Raylib](https://www.raylib.com/) as a [Processing](https://processing.org/) replacement
+  - Port Code of Train videos
