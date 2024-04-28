@@ -1,7 +1,3 @@
-- [ ] [OpenSCAD](https://openscad.org/)
-  - [Tutorial](https://openscad.org/documentation.html#tutorial)
-  - [User Manual](https://openscad.org/documentation.html#user-manual)
-  - [Language Reference](https://openscad.org/documentation.html#language-reference)
 - [ ] C Programming
   - [Pointers in C Programming](https://github.com/mkohlhaas/Pointers-C-Programming)
   - [The Joys of Hashing](https://github.com/mkohlhaas/Joys-of-Hashing)
@@ -13,6 +9,10 @@
     - linear memory allocator/arena
     - hash table
     - math library
+- [ ] [Archlinux Installation](https://archlinux.org/)
+- [ ] [OpenSCAD](https://openscad.org/)
+  - [Language Reference](https://openscad.org/documentation.html#language-reference)
+  - [Using an external Editor with OpenSCAD](https://en.wikibooks.org/wiki/OpenSCAD_User_Manual/Using_an_external_Editor_with_OpenSCAD)
 - [ ] Port of [An incredibly fast JavaScript library for Delaunay triangulation of 2D points](https://github.com/mapbox/delaunator) to C.
   - [Use Go port as reference](https://github.com/fogleman/delaunay)
   - [Delaunay & Voronoi on a Sphere](https://www.redblobgames.com/x/1842-delaunay-voronoi-sphere/)
