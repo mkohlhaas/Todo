@@ -1,3 +1,7 @@
+- [ ] [OpenSCAD](https://openscad.org/)
+  - [Tutorial](https://openscad.org/documentation.html#tutorial)
+  - [User Manual](https://openscad.org/documentation.html#user-manual)
+  - [Language Reference](https://openscad.org/documentation.html#language-reference)
 - [ ] C Programming
   - [Pointers in C Programming](https://github.com/mkohlhaas/Pointers-C-Programming)
   - [The Joys of Hashing](https://github.com/mkohlhaas/Joys-of-Hashing)
