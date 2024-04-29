@@ -12,6 +12,8 @@
 - [ ] [Archlinux Installation](https://archlinux.org/)
 - [ ] [OpenSCAD](https://openscad.org/)
   - Examples in the application itself (File menu → Examples)
+  - [Modéliser un objet 3D avec OpenSCAD et Inkscape (un peu)](https://static.fablab-lannion.org/tutos/openscad/#/pageDeGarde)
+  - [Getting Started](https://learn.cadhub.xyz/docs/)
   - [Language Reference](https://openscad.org/documentation.html#language-reference)
 - [ ] Port of [An incredibly fast JavaScript library for Delaunay triangulation of 2D points](https://github.com/mapbox/delaunator) to C.
   - [Use Go port as reference](https://github.com/fogleman/delaunay)
