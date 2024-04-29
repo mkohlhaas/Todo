@@ -9,12 +9,14 @@
     - linear memory allocator/arena
     - hash table
     - math library
-- [ ] [Archlinux Installation](https://archlinux.org/)
 - [ ] [OpenSCAD](https://openscad.org/)
   - Examples in the application itself (File menu → Examples)
   - [Modéliser un objet 3D avec OpenSCAD et Inkscape (un peu)](https://static.fablab-lannion.org/tutos/openscad/#/pageDeGarde)
   - [Getting Started](https://learn.cadhub.xyz/docs/)
   - [Language Reference](https://openscad.org/documentation.html#language-reference)
+- [ ] [Archlinux Installation](https://archlinux.org/)
+- [ ] [Rough.js](https://roughjs.com/)
+  - [Rough.js and brush pen](https://twitter.com/cahodk/status/1278084370151211008)
 - [ ] Port of [An incredibly fast JavaScript library for Delaunay triangulation of 2D points](https://github.com/mapbox/delaunator) to C.
   - [Use Go port as reference](https://github.com/fogleman/delaunay)
   - [Delaunay & Voronoi on a Sphere](https://www.redblobgames.com/x/1842-delaunay-voronoi-sphere/)
