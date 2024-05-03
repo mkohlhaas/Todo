@@ -9,6 +9,7 @@
     - linear memory allocator/arena
     - hash table
     - math library
+  - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
 - [ ] [OpenSCAD](https://openscad.org/)
   - Examples in the application itself (File menu → Examples)
   - [Modéliser un objet 3D avec OpenSCAD et Inkscape (un peu)](https://static.fablab-lannion.org/tutos/openscad/#/pageDeGarde)
