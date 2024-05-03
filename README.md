@@ -1,5 +1,5 @@
 - [ ] C Programming
-  - [Pointers in C Programming](https://github.com/mkohlhaas/Pointers-C-Programming)
+  - [x] [Pointers in C Programming](https://github.com/mkohlhaas/Pointers-C-Programming)
   - [The Joys of Hashing](https://github.com/mkohlhaas/Joys-of-Hashing)
     - Hash table implementation is also in [Simple OpenGL obj viewer](https://github.com/syoyo/tinyobjloader-c/blob/master/tinyobj_loader_c.h#L595)
   - K-d tree
@@ -10,7 +10,7 @@
     - hash table
     - math library
   - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
-  - [https://nullprogram.com/blog/2018/07/31/](Prospecting for Hash Functions)
+  - [Prospecting for Hash Functions](https://nullprogram.com/blog/2018/07/31/)
 - [ ] [OpenSCAD](https://openscad.org/)
   - Examples in the application itself (File menu → Examples)
   - [Modéliser un objet 3D avec OpenSCAD et Inkscape (un peu)](https://static.fablab-lannion.org/tutos/openscad/#/pageDeGarde)
