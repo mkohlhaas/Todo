@@ -11,6 +11,10 @@
     - math library
   - [Arena allocator tips and tricks](https://nullprogram.com/blog/2023/09/27/)
   - [Prospecting for Hash Functions](https://nullprogram.com/blog/2018/07/31/)
+- [ ] Gimp
+  - [ ] Book: Gimp für Dummies.
+  - [How to write a GIMP plug-in](https://developer.gimp.org/resource/writing-a-plug-in/1/)
+  - [Github Gimp Plugins](https://github.com/topics/gimp-plugin?l=c)
 - [ ] [OpenSCAD](https://openscad.org/)
   - Examples in the application itself (File menu → Examples)
   - [Modéliser un objet 3D avec OpenSCAD et Inkscape (un peu)](https://static.fablab-lannion.org/tutos/openscad/#/pageDeGarde)
