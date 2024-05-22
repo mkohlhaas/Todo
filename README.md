@@ -1,6 +1,11 @@
+- [ ] [GObject Tutorial](https://toshiocp.github.io/Gobject-tutorial/index.html)
+  - [Sources](https://github.com/ToshioCP/Gobject-tutorial)
+- [ ] [GTK4 Tutorial](https://toshiocp.github.io/Gtk4-tutorial/)
+  - [Sources](https://github.com/ToshioCP/Gtk4-tutorial)
+  - [Beginners Tutorials](https://developer.gnome.org/documentation/tutorials/beginners.html)
 - [ ] [Darktable](https://www.darktable.org/)
   - YT Tutorials
   - Programming
 - [ ] [Little CMS](https://www.littlecms.com/)
   - [Programming Tutorial](https://www.littlecms.com/LittleCMS2.16%20tutorial.pdf)
-- [ ] ICC Profile Generator for Digital Negatives
+- [ ] ICC Profile Generator for Digital Negatives as GTK4 application
