@@ -1,5 +1,5 @@
-- [ ] [The Meson Manual](https://meson-manual.com/)
-  - Nvim Language server for meson.
+- [x] [The Meson Manual](https://meson-manual.com/)
+  - [x] Nvim Language server for meson.
 - [ ] [Texturing And Modeling - A Procedural Approach](https://www.google.de/books/edition/Texturing_and_Modeling/77KjBQAAQBAJ)
   - Find more books of this kind!
 - [ ] [GObject Tutorial](https://toshiocp.github.io/Gobject-tutorial/index.html)
