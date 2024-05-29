@@ -3,17 +3,17 @@
 - [ ] [GTK4 Tutorial](https://toshiocp.github.io/Gtk4-tutorial/)
   - [Sources](https://github.com/ToshioCP/Gtk4-tutorial)
   - [Beginners Tutorials](https://developer.gnome.org/documentation/tutorials/beginners.html)
-- [ ] [Texturing And Modeling - A Procedural Approach](https://www.google.de/books/edition/Texturing_and_Modeling/77KjBQAAQBAJ)
-  - Find more books of this kind!
+- [ ] [GTK Nodes - A GTK-based library to create functional flow graphs with the ability to pass arbitrary data between connected elements](https://github.com/aluntzer/gtknodes)
+- [ ] [Ray Tracing](https://www.dropbox.com/scl/fo/fjdw1l73v774gc8glxzfm/ALuS81w17jscb_77GELPAL4?rlkey=5jyzqesqyp1mq3czlyipwc1xw&st=n05thfma&dl=0)
+  - [Ray Tracing in One Weekend - The Book Series](https://raytracing.github.io/)
+  - [Rendering TU Wien(186.101, 2021S)](https://www.youtube.com/watch?v=5sY_hoh_IDc&list=PLmIqTlJ6KsE2yXzeq02hqCDpOdtj6n6A9)
+    - [Nori an educational ray tracer](https://wjakob.github.io/nori/)
+  - [TU Wien Rendering ⧸ Ray Tracing Course](https://www.youtube.com/watch?v=pjc1QAI6zS0&list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
+    - [Smallpaint - A global illumination renderer in less than 250 lines of C++ code](https://users.cg.tuwien.ac.at/zsolnai/gfx/smallpaint/)
+  - [Physically Based Rendering, fourth edition: From Theory to Implementation](https://www.pbrt.org/)
 - [ ] [Darktable](https://www.darktable.org/)
   - YT Tutorials
   - Programming
 - [ ] [Little CMS](https://www.littlecms.com/)
   - [Programming Tutorial](https://www.littlecms.com/LittleCMS2.16%20tutorial.pdf)
 - [ ] ICC Profile Generator for Digital Negatives as GTK4 application
-- [ ] Library for Random Algorithms, e.g. [Noise Types](https://github.com/JayVanSchaick/2D-Noise-Mixer/tree/main/2D%20Noise%20Mixer/NoiseMixersNoiseTypes)
-  - [Stochastic Processes](https://github.com/crflynn/stochastic)
-  - [Painting a Landscape with Math](https://www.youtube.com/watch?v=BFld4EBO2RE)
-  - Then specialize on clouds and skies.
-  - Digital Camera Canon R5 for panoramic fotos.
-    - Blend in artificial clouds/skies.
