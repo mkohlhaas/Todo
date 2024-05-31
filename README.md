@@ -1,5 +1,3 @@
-- [x] [GObject Tutorial](https://toshiocp.github.io/Gobject-tutorial/index.html)
-  - [Sources](https://github.com/ToshioCP/Gobject-tutorial)
 - [ ] [GTK4 Tutorial](https://toshiocp.github.io/Gtk4-tutorial/)
   - [Sources](https://github.com/ToshioCP/Gtk4-tutorial)
   - [Beginners Tutorials](https://developer.gnome.org/documentation/tutorials/beginners.html)
