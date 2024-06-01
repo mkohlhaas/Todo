@@ -1,7 +1,3 @@
-- [ ] [GTK4 Tutorial](https://toshiocp.github.io/Gtk4-tutorial/)
-  - [Sources](https://github.com/ToshioCP/Gtk4-tutorial)
-  - [Beginners Tutorials](https://developer.gnome.org/documentation/tutorials/beginners.html)
-- [ ] [GTK Nodes - A GTK-based library to create functional flow graphs with the ability to pass arbitrary data between connected elements](https://github.com/aluntzer/gtknodes)
 - [ ] [Ray Tracing](https://www.dropbox.com/scl/fo/fjdw1l73v774gc8glxzfm/ALuS81w17jscb_77GELPAL4?rlkey=5jyzqesqyp1mq3czlyipwc1xw&st=n05thfma&dl=0)
   - [Ray Tracing in One Weekend - The Book Series](https://raytracing.github.io/)
   - [Rendering TU Wien(186.101, 2021S)](https://www.youtube.com/watch?v=5sY_hoh_IDc&list=PLmIqTlJ6KsE2yXzeq02hqCDpOdtj6n6A9)
