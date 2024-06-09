@@ -1,9 +1,5 @@
 - [ ] [Ray Tracing](https://www.dropbox.com/scl/fo/fjdw1l73v774gc8glxzfm/ALuS81w17jscb_77GELPAL4?rlkey=5jyzqesqyp1mq3czlyipwc1xw&st=n05thfma&dl=0)
   - [Ray Tracing in One Weekend - The Book Series](https://raytracing.github.io/)
-  - [Rendering TU Wien(186.101, 2021S)](https://www.youtube.com/watch?v=5sY_hoh_IDc&list=PLmIqTlJ6KsE2yXzeq02hqCDpOdtj6n6A9)
-    - [Nori an educational ray tracer](https://wjakob.github.io/nori/)
-  - [TU Wien Rendering ⧸ Ray Tracing Course](https://www.youtube.com/watch?v=pjc1QAI6zS0&list=PLujxSBD-JXgnGmsn7gEyN28P1DnRZG7qi)
-    - [Smallpaint - A global illumination renderer in less than 250 lines of C++ code](https://users.cg.tuwien.ac.at/zsolnai/gfx/smallpaint/)
   - [Physically Based Rendering, fourth edition: From Theory to Implementation](https://www.pbrt.org/)
 - [ ] [Darktable](https://www.darktable.org/)
   - YT Tutorials
