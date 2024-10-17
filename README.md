@@ -1,9 +1,4 @@
-- [ ] [Ray Tracing](https://www.dropbox.com/scl/fo/fjdw1l73v774gc8glxzfm/ALuS81w17jscb_77GELPAL4?rlkey=5jyzqesqyp1mq3czlyipwc1xw&st=n05thfma&dl=0)
-  - [Ray Tracing in One Weekend - The Book Series](https://raytracing.github.io/)
-  - [Physically Based Rendering, fourth edition: From Theory to Implementation](https://www.pbrt.org/)
-- [ ] [Darktable](https://www.darktable.org/)
-  - YT Tutorials
-  - Programming
-- [ ] [Little CMS](https://www.littlecms.com/)
-  - [Programming Tutorial](https://www.littlecms.com/LittleCMS2.16%20tutorial.pdf)
-- [ ] ICC Profile Generator for Digital Negatives as GTK4 application
+- [ ] [rebar3](https://rebar3.org/)
+- [ ] [relx](https://github.com/erlware/relx)
+  - [relx wiki](https://github.com/erlware/relx/wiki)
+- [ ] [Purerl Cookbook](https://purerl-cookbook.readthedocs.io/en/main/index.html)
