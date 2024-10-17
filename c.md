@@ -1,7 +1,0 @@
-- [ ] [Crafting Interpreters](https://craftinginterpreters.com/)
-- [ ] [Modern C](https://gitlab.inria.fr/gustedt/modern-c)
-- [ ] [Macros](https://github.com/Hirrolot/awesome-c-preprocessor)
-- [ ] [Arenas, strings and Scuffed Templates in C](https://www.youtube.com/watch?v=3IAlJSIjvH0)
-  - See links in the description
-- [ ] [Untangling Lifetimes: The Arena Allocator](https://www.rfleury.com/p/untangling-lifetimes-the-arena-allocator)
-- [x] Sample project with Glib Regexp.

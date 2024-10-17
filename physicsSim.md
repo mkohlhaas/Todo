@@ -1,5 +1,0 @@
-- [ ] Fluid system
-  - [ ] Fluid system & Triangulation.
-- [ ] Physics Simulation
-  - [ ] Ten minutes physics
-  - [ ] [16 Simulation on the GPU](https://matthias-research.github.io/pages/tenMinutePhysics/16-GPUSimulation.pdf)
