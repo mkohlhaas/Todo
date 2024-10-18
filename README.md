@@ -2,3 +2,4 @@
 - [ ] [relx](https://github.com/erlware/relx)
   - [relx wiki](https://github.com/erlware/relx/wiki)
 - [ ] [Purerl Cookbook](https://purerl-cookbook.readthedocs.io/en/main/index.html)
+- [ ] [Network Programming in Elixir](https://github.com/mkohlhaas/Network-Programming-in-Elixir-and-Erlang)
