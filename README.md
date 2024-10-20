@@ -1,1 +1,8 @@
 - [ ] [Purerl Cookbook](https://purerl-cookbook.readthedocs.io/en/main/index.html)
+- [ ] Sample project
+  - start empty then progress 
+    - Pinto 
+    - Ranch
+  - spago
+  - rebar3
+    - pre and post hooks
