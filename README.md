@@ -1,6 +1,7 @@
 - [ ] [Purerl Cookbook](https://purerl-cookbook.readthedocs.io/en/main/index.html)
+- [ ] Port [Erlang and OTP in Action](https://github.com/mkohlhaas/Erlang-and-OTP-in-Action) to PureScript.
 - [ ] Sample project
-  - start empty then progress 
+  - start empty then progress
     - Pinto 
     - Ranch
   - spago
