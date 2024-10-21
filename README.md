@@ -1,6 +1,6 @@
 - [PureScript Erlang Template/Sample Project](https://github.com/mkohlhaas/PureScript-Erlang)
 - [Purerl Cookbook](https://purerl-cookbook.readthedocs.io/en/main/index.html)
-- [ ] Port [Functional Programming Made Easier](https://github.com/mkohlhaas/Functional-Programming-Made-Easier) to Erlang.
+- Port [Functional Programming Made Easier](https://github.com/mkohlhaas/Functional-Programming-Made-Easier) to Erlang.
 - [ ] Port [Erlang and OTP in Action](https://github.com/mkohlhaas/Erlang-and-OTP-in-Action) to PureScript.
 - [ ] Sample project
   - start empty then progress
