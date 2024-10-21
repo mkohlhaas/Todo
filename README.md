@@ -1,4 +1,5 @@
-- [ ] [Purerl Cookbook](https://purerl-cookbook.readthedocs.io/en/main/index.html)
+- [PureScript Erlang Template/Sample Project](https://github.com/mkohlhaas/PureScript-Erlang)
+- [Purerl Cookbook](https://purerl-cookbook.readthedocs.io/en/main/index.html)
 - [ ] Port [Erlang and OTP in Action](https://github.com/mkohlhaas/Erlang-and-OTP-in-Action) to PureScript.
 - [ ] Sample project
   - start empty then progress
