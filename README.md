@@ -1,5 +1,6 @@
 - [PureScript Erlang Template/Sample Project](https://github.com/mkohlhaas/PureScript-Erlang)
 - [Purerl Cookbook](https://purerl-cookbook.readthedocs.io/en/main/index.html)
+- [Purerl in Action](https://github.com/mkohlhaas/Purerl-in-Action)
 - [demo-ps - Skeleton app with contrived client/server examples](https://github.com/id3as/demo-ps)
 - Port [Functional Programming Made Easier](https://github.com/mkohlhaas/Functional-Programming-Made-Easier) to Erlang.
 - Port [Erlang and OTP in Action](https://github.com/mkohlhaas/Erlang-and-OTP-in-Action) to PureScript.
