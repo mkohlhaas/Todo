@@ -1,6 +1,7 @@
 - [PureScript Erlang Template/Sample Project](https://github.com/mkohlhaas/PureScript-Erlang)
 - [Lenses for the Mere Mortal: PureScript Edition](https://github.com/mkohlhaas/Lenses-for-the-Mere-Mortals-PureScript)
-- [ ] [YT: Impure Pic - PureScript](https://www.youtube.com/playlist?list=PLxn_Aq3QlOQd3nyoe9vv72qQwP2qAfP6r)
+- [Profunctors are everywhere!](https://dev.to/meeshkan/profunctors-are-everywhere-27m4)
+- [YT: Impure Pic - PureScript](https://www.youtube.com/playlist?list=PLxn_Aq3QlOQd3nyoe9vv72qQwP2qAfP6r)
 - [Purerl Cookbook](https://purerl-cookbook.readthedocs.io/en/main/index.html)
 - [Purerl in Action](https://github.com/mkohlhaas/Purerl-in-Action)
 - [demo-ps - Skeleton app with contrived client/server examples](https://github.com/id3as/demo-ps)
