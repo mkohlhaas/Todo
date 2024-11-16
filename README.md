@@ -1,6 +1,7 @@
 - [PureScript Erlang Template/Sample Project](https://github.com/mkohlhaas/PureScript-Erlang-Template)
 - [Lenses for the Mere Mortal: PureScript Edition](https://github.com/mkohlhaas/Lenses-for-the-Mere-Mortals-PureScript)
 - [Profunctors are everywhere!](https://dev.to/meeshkan/profunctors-are-everywhere-27m4)
+- [Profunctors are everywhere! - Code](https://github.com/mkohlhaas/Profunctors-are-Everywhere)
 - [PureScript: Jordan's Reference](https://jordanmartinez.github.io/purescript-jordans-reference-site/)
 - [PureScript by Example](https://book.purescript.org/)
 - [PureScript Profunctor Lenses](https://github.com/purescript-contrib/purescript-profunctor-lenses)
