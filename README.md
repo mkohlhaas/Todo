@@ -4,6 +4,7 @@
 - [Profunctors are everywhere! - Code](https://github.com/mkohlhaas/Profunctors-are-Everywhere)
 - [PureScript: Jordan's Reference](https://jordanmartinez.github.io/purescript-jordans-reference-site/)
 - [PureScript by Example](https://book.purescript.org/)
+- [PureScript by Example - Code](https://github.com/mkohlhaas/PureScript-by-Example)
 - [PureScript Profunctor Lenses](https://github.com/purescript-contrib/purescript-profunctor-lenses)
 - [YT: Impure Pic - PureScript](https://www.youtube.com/playlist?list=PLxn_Aq3QlOQd3nyoe9vv72qQwP2qAfP6r)
 - [Purerl Cookbook](https://purerl-cookbook.readthedocs.io/en/main/index.html)
