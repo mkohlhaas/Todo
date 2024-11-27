@@ -10,6 +10,7 @@
   - [ ] [Luster](https://github.com/mkohlhaas/Gleam-Luster)
   - [ ] [Nakai](https://github.com/aslilac/nakai)
 - [ ] Applications:
+  - [ ] [Building your first Gleam web app with Wisp and Lustre](https://gleaming.dev/articles/building-your-first-gleam-web-app/)
   - [ ] [Simple Chat App Using Mist](https://github.com/rawhat/glot)
   - [ ] [Real-Time Gleam Chat](https://github.com/mkohlhaas/Real-Time-Gleam-Chat)
   - [ ] [Isaac Charris: Gleam Webservers](https://github.com/isaacharrisholt/youtube/tree/main/code/039-gleam-webservers)
