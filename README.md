@@ -1,10 +1,12 @@
 - [ ] Rust
-  - [ ] Book: Programming Rust, 2nd Edition
   - [ ] Rustlings
   - [ ] Lifetimekata
   - [ ] Books:
     - [ ] Async Rust
-    - [ ] Effective Rust
     - [ ] Rust Atomics and Locks
-    - [ ] The Accelerated Guide to Smart Pointers
-    - [ ] Write Powerful Rust Macros
+    - [ ] Effective Rust
+- [ ] Blender
+  - [ ] NeoVim live Python scripting
+  - [ ] [Sample code](https://github.com/njanakiev/blender-scripting)
+    - [ ] Voronoi Sphere
+  - [ ] Python snippets (-> Gist)
