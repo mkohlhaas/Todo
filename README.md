@@ -6,7 +6,6 @@
     - [ ] Rust Atomics and Locks
     - [ ] Effective Rust
 - [ ] Blender
-  - [ ] NeoVim live Python scripting
   - [ ] [Sample code](https://github.com/njanakiev/blender-scripting)
     - [ ] Voronoi Sphere
   - [ ] Python snippets (-> Gist)
