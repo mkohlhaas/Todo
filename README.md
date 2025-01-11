@@ -1,11 +1,19 @@
-- [ ] Rust
-  - [ ] Rustlings
-  - [ ] Lifetimekata
-  - [ ] Books:
-    - [ ] Async Rust
-    - [ ] Rust Atomics and Locks
-    - [ ] Effective Rust
+- [ ] Python
+  - [ ] Decorators
+  - [ ] Typing
+  - [ ] Threading
+  - [ ] Asyncio
+  - [ ] Queue implementation
+  - [ ] pynvim -> rpc
+  - [ ] Traceback
+  - [ ] pathlib
+  - [ ] os
+  - [ ] sys
+  - [ ] json
 - [ ] Blender
   - [ ] [Sample code](https://github.com/njanakiev/blender-scripting)
     - [ ] Voronoi Sphere
   - [ ] Python snippets (-> Gist)
+- [ ] Rust
+  - [ ] Rustlings
+  - [ ] Lifetimekata
