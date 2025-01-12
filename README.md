@@ -1,5 +1,5 @@
 - [ ] Python
-  - [ ] Decorators
+  - [x] Decorators
   - [ ] Typing
   - [ ] Threading
   - [ ] Asyncio
