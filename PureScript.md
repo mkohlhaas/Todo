@@ -24,8 +24,8 @@
     - [Take example GenServers apart](https://github.com/id3as/demo-ps/blob/main/server/src/BookSup.purs#L41)
   - Sample project
     - start empty then progress
-      - Pinto 
       - Ranch
+      - Pinto 
     - spago
     - rebar3
       - pre and post hooks
