@@ -10,6 +10,7 @@
   - [ ] os
   - [ ] sys
   - [ ] json
+  - [ ] Context Managers
 - [ ] Blender
   - [ ] [Sample code](https://github.com/njanakiev/blender-scripting)
     - [ ] Voronoi Sphere
