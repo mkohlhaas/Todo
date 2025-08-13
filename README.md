@@ -1,0 +1,10 @@
+- Clojure
+  - Specs:
+    - [Clojure Spec Expressing Data Constraints without Types - Alex Miller](https://www.youtube.com/watch?v=Xb0UhDeHzBM&pp=ygUTY2xvanVyZSBzcGVjIG1pbGxlcg%3D%3D)
+    - [spec Guide](https://clojure.org/guides/spec)
+    - [What Clojure spec is and what you can do with it (an illustrated guide)](https://pixelated-noise.com/blog/2020/09/10/what-spec-is/index.html)
+  - Protocols
+    - [Protocols](https://clojure.org/reference/protocols)
+    - [Becoming friends with Clojure protocols](https://www.emcken.dk/programming/2022/08/11/becoming-friends-with-clojure-protocols/)
+    - [Polymorphism with Clojure Protocols](https://ilanuzan.medium.com/polymorphism-w-clojure-protocols-396ff472ff3c)
+    - [Protocols: Clojure’s Polymorphic Magic](https://medium.com/helpshift-engineering/protocols-clojures-polymorphic-magic-d291eab91d1b)
