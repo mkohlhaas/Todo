@@ -1,8 +1,11 @@
 - Clojure
   - Specs:
-    - [Clojure Spec Expressing Data Constraints without Types - Alex Miller](https://www.youtube.com/watch?v=Xb0UhDeHzBM&pp=ygUTY2xvanVyZSBzcGVjIG1pbGxlcg%3D%3D)
+    - [YT: Clojure Spec Expressing Data Constraints without Types - Alex Miller](https://www.youtube.com/watch?v=Xb0UhDeHzBM&pp=ygUTY2xvanVyZSBzcGVjIG1pbGxlcg%3D%3D)
     - [spec Guide](https://clojure.org/guides/spec)
     - [What Clojure spec is and what you can do with it (an illustrated guide)](https://pixelated-noise.com/blog/2020/09/10/what-spec-is/index.html)
+      - [YT: Athens Clojure Meetup - What spec is and what you can do with it (Stathis Sideris)](https://www.youtube.com/watch?v=T1qpIaB6_vM)
+      - [GH: What spec is and what you can do with it](https://github.com/Athens/clojure/blob/master/presentations/2017-12-13%20-%20What%20spec%20is%20and%20what%20you%20can%20do%20with%20it/clojure-meetup-athens%20-%20spec.org)
+    - [YT: clojure.spec - David Nolen](https://www.youtube.com/watch?v=Rlu-X5AqWXw)
   - Protocols
     - [Protocols](https://clojure.org/reference/protocols)
     - [Becoming friends with Clojure protocols](https://www.emcken.dk/programming/2022/08/11/becoming-friends-with-clojure-protocols/)
