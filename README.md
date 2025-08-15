@@ -1,12 +1,18 @@
 - Clojure
   - Specs:
     - [YT: Clojure Spec Expressing Data Constraints without Types - Alex Miller](https://www.youtube.com/watch?v=Xb0UhDeHzBM&pp=ygUTY2xvanVyZSBzcGVjIG1pbGxlcg%3D%3D)
+    - [YT: clojure.spec - David Nolen](https://www.youtube.com/watch?v=Rlu-X5AqWXw)
     - [spec Guide](https://clojure.org/guides/spec)
     - [What Clojure spec is and what you can do with it (an illustrated guide)](https://pixelated-noise.com/blog/2020/09/10/what-spec-is/index.html)
-      - [GH: What spec is and what you can do with it](https://github.com/Athens/clojure/blob/master/presentations/2017-12-13%20-%20What%20spec%20is%20and%20what%20you%20can%20do%20with%20it/clojure-meetup-athens%20-%20spec.org)
-    - [YT: clojure.spec - David Nolen](https://www.youtube.com/watch?v=Rlu-X5AqWXw)
+      - [GH: repo](https://github.com/Athens/clojure/blob/master/presentations/2017-12-13%20-%20What%20spec%20is%20and%20what%20you%20can%20do%20with%20it/clojure-meetup-athens%20-%20spec.org)
   - Protocols
     - [Protocols](https://clojure.org/reference/protocols)
     - [Becoming friends with Clojure protocols](https://www.emcken.dk/programming/2022/08/11/becoming-friends-with-clojure-protocols/)
     - [Polymorphism with Clojure Protocols](https://ilanuzan.medium.com/polymorphism-w-clojure-protocols-396ff472ff3c)
     - [Protocols: Clojure’s Polymorphic Magic](https://medium.com/helpshift-engineering/protocols-clojures-polymorphic-magic-d291eab91d1b)
+  - Destructuring
+    - [YT: Practicalli Clojure 12 - Destructuring in Clojure - 4Clojure 52 and 173](https://www.youtube.com/watch?v=y-KS2gABnTQ)
+    - [Destructuring in Clojure](https://clojure.org/guides/destructuring)
+    - [The complete guide to Clojure destructuring](https://blog.brunobonacci.com/2014/11/16/clojure-complete-guide-to-destructuring/)
+  - 4Clojure
+    - [GH: practicalli/four-clojure](https://github.com/practicalli/four-clojure)
