@@ -5,6 +5,7 @@
     - [spec Guide](https://clojure.org/guides/spec)
     - [What Clojure spec is and what you can do with it (an illustrated guide)](https://pixelated-noise.com/blog/2020/09/10/what-spec-is/index.html)
       - [GH: repo](https://github.com/Athens/clojure/blob/master/presentations/2017-12-13%20-%20What%20spec%20is%20and%20what%20you%20can%20do%20with%20it/clojure-meetup-athens%20-%20spec.org)
+  - Malli
   - Protocols
     - [Protocols](https://clojure.org/reference/protocols)
     - [Becoming friends with Clojure protocols](https://www.emcken.dk/programming/2022/08/11/becoming-friends-with-clojure-protocols/)
