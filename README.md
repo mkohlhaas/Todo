@@ -1,7 +1,4 @@
 - Clojure
-  - Destructuring
-    - [Destructuring in Clojure](https://clojure.org/guides/destructuring)
-    - [The complete guide to Clojure destructuring](https://blog.brunobonacci.com/2014/11/16/clojure-complete-guide-to-destructuring/)
   - Multimethods and Hierarchies
     - [YT: How to create a multi method in Clojure](https://www.youtube.com/watch?v=lBKJ-PB2Z2k&pp=ygUTY2xvanVyZSBtdWx0aW1ldGhvZNIHCQmtCQGHKiGM7w%3D%3D)
     - [Multimethods and Hierarchies](https://clojure.org/reference/multimethods)
