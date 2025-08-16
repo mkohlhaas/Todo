@@ -1,9 +1,4 @@
 - Clojure
-  - Multimethods and Hierarchies
-    - [YT: How to create a multi method in Clojure](https://www.youtube.com/watch?v=lBKJ-PB2Z2k&pp=ygUTY2xvanVyZSBtdWx0aW1ldGhvZNIHCQmtCQGHKiGM7w%3D%3D)
-    - [Multimethods and Hierarchies](https://clojure.org/reference/multimethods)
-    - [Clojure Cheatsheet - Multimethods](https://jafingerhut.github.io/cheatsheet/clojuredocs/cheatsheet-tiptip-cdocs-summary.html)
-    - [Functional Polymorphism using Clojure’s Multimethods](https://ilanuzan.medium.com/functional-polymorphism-using-clojures-multimethods-825c6f3666e6)
   - Specter
     - [Specter](https://github.com/redplanetlabs/specter)
     - [Understanding Specter: Clojure's missing piece](https://www.youtube.com/watch?v=rh5J4vacG98)
