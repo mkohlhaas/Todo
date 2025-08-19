@@ -1,7 +1,4 @@
 - Clojure
-  - Specter
-    - [Specter](https://github.com/redplanetlabs/specter)
-    - [Understanding Specter: Clojure's missing piece](https://www.youtube.com/watch?v=rh5J4vacG98)
   - 4Clojure
     - [4ever-clojure](https://4clojure.oxal.org/)
     - [GH: practicalli/four-clojure](https://github.com/practicalli/four-clojure)
