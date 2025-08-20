@@ -2,3 +2,14 @@
   - 4Clojure
     - [4ever-clojure](https://4clojure.oxal.org/)
     - [GH: practicalli/four-clojure](https://github.com/practicalli/four-clojure)
+  - Specter
+    - Trying to Understand the Source Code
+      - Possibly use a debugger, e.g. [FlowStorm](https://www.flow-storm.org/)
+    - Zippers
+      - Clojure Cheatsheet
+      - [“Editing” trees in Clojure with clojure.zip](http://www.exampler.com/blog/2010/09/01/editing-trees-in-clojure-with-clojurezip/)
+    - [Extending and Using Specter](https://leanpub.com/specter/read)
+      - [Leanpub - The free sample is the book (unfinished)](https://leanpub.com/specter)
+        - Keywords:
+          - CPS (continuation passing style)
+          - recursively precomputing the call graph
