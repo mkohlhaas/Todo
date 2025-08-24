@@ -1,7 +1,6 @@
 - Clojure
   - 4Clojure
     - [4ever-clojure](https://4clojure.oxal.org/)
-    - [GH: practicalli/four-clojure](https://github.com/practicalli/four-clojure)
   - Specter
     - Trying to Understand the Source Code
       - Possibly use a debugger, e.g. [FlowStorm](https://www.flow-storm.org/)
@@ -13,3 +12,6 @@
         - Keywords:
           - CPS (continuation passing style)
           - recursively precomputing the call graph
+  - Apache TinkerPop
+    - [Apache TinkerPop™](https://tinkerpop.apache.org/)
+    - [PRACTICAL GREMLIN: An Apache TinkerPop Tutorial](https://github.com/krlawrence/graph)
