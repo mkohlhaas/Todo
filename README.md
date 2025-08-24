@@ -12,6 +12,7 @@
         - Keywords:
           - CPS (continuation passing style)
           - recursively precomputing the call graph
+  - core.async
   - Apache TinkerPop
     - [Apache TinkerPop™](https://tinkerpop.apache.org/)
     - [PRACTICAL GREMLIN: An Apache TinkerPop Tutorial](https://github.com/krlawrence/graph)
