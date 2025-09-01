@@ -2,6 +2,7 @@
   - 4Clojure
     - [4ever-clojure](https://4clojure.oxal.org/)
   - [clojure2d](https://github.com/Clojure2D/clojure2d)
+  - Sudoku
   - Specter
     - Trying to Understand the Source Code
       - Possibly use a debugger, e.g. [FlowStorm](https://www.flow-storm.org/)
