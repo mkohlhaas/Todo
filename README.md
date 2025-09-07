@@ -1,6 +1,4 @@
 - Clojure
-  - 4Clojure
-    - [4ever-clojure](https://4clojure.oxal.org/)
   - Sudoku
   - [clojure2d](https://github.com/Clojure2D/clojure2d)
   - Specter
