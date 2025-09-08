@@ -1,5 +1,4 @@
 - Clojure
-  - Sudoku
   - [clojure2d](https://github.com/Clojure2D/clojure2d)
   - Specter
     - Trying to Understand the Source Code
