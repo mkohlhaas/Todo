@@ -1,5 +1,4 @@
 - Clojure
-  - [clojure2d](https://github.com/Clojure2D/clojure2d)
   - Specter
     - Trying to Understand the Source Code
       - Possibly use a debugger, e.g. [FlowStorm](https://www.flow-storm.org/)
@@ -12,9 +11,3 @@
           - CPS (continuation passing style)
           - recursively precomputing the call graph
   - core.async
-  - Apache TinkerPop
-    - [NuGraph: GraphDB as a Cloud Service Built Upon JanusGraph and FoundationDB](https://www.youtube.com/watch?v=EtB1BPG00PE)
-    - [Datomic Documentation](https://docs.datomic.com/datomic-overview.html)
-      - uses Datalog as a query language
-    - [Apache TinkerPop™](https://tinkerpop.apache.org/)
-    - [PRACTICAL GREMLIN: An Apache TinkerPop Tutorial](https://github.com/krlawrence/graph)
