@@ -1,4 +1,18 @@
 - Clojure
+  - Drawing
+    - anti-aliased versions
+    - thick/thin line
+    - varying width (e.g. with Perlin Noise)
+    - square, rectangle
+    - rotate
+    - circle
+    - ellipsis
+    - Bézier Curves
+    - blur
+    - potrace
+    - Perlin Noise
+    - bucket fill
+    - export pnm
   - Specter
     - Trying to Understand the Source Code
       - Possibly use a debugger, e.g. [FlowStorm](https://www.flow-storm.org/)
