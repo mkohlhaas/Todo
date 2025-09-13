@@ -1,18 +1,19 @@
 - Clojure
   - Drawing
     - export pnm
+      - random image
     - Perlin Noise
+    - potrace
+    - bucket fill
+    - blur
     - anti-aliased versions
-    - thick/thin line
-    - varying width (e.g. with Perlin Noise)
+    - line
     - square, rectangle
-    - rotate
     - circle
     - ellipsis
     - Bézier Curves
-    - blur
-    - potrace
-    - bucket fill
+    - varying width (e.g. with Perlin Noise)
+    - rotate
   - Specter
     - Trying to Understand the Source Code
       - Possibly use a debugger, e.g. [FlowStorm](https://www.flow-storm.org/)
