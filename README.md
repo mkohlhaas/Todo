@@ -2,17 +2,18 @@
   - Drawing
     - export pnm
       - random image
-    - Perlin Noise
+    - Perlin noise
     - potrace
     - bucket fill
     - blur
+    - color quantization
     - anti-aliased versions
     - line
     - square, rectangle
     - circle
     - ellipsis
-    - Bézier Curves
-    - varying width (e.g. with Perlin Noise)
+    - Bézier curves
+    - varying width (e.g. with Perlin noise)
     - rotate
   - Specter
     - Trying to Understand the Source Code
