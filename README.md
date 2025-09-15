@@ -15,6 +15,8 @@
     - Bézier curves
     - varying width (e.g. with Perlin noise)
     - rotate
+  - [Clojure in Action, 2nd Ed.](https://github.com/mkohlhaas/Clojure-in-Action-2nd-Edition)
+  - [Clojure - The Essential Reference](https://github.com/mkohlhaas/Clojure-The-Essential-Reference)
   - Specter
     - Trying to Understand the Source Code
       - Possibly use a debugger, e.g. [FlowStorm](https://www.flow-storm.org/)
