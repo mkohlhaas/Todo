@@ -1,12 +1,10 @@
 - Clojure
   - Drawing
-    - export pnm
-      - random image
-    - Perlin noise
+    - color quantization
     - potrace
+    - Perlin noise
     - bucket fill
     - blur
-    - color quantization
     - anti-aliased versions
     - line
     - square, rectangle
@@ -15,8 +13,10 @@
     - Bézier curves
     - varying width (e.g. with Perlin noise)
     - rotate
-  - [Clojure in Action, 2nd Ed.](https://github.com/mkohlhaas/Clojure-in-Action-2nd-Edition)
+    - ✓ export pnm
+      - ✓ invert image
   - [Clojure - The Essential Reference](https://github.com/mkohlhaas/Clojure-The-Essential-Reference)
+  - [Clojure in Action, 2nd Ed.](https://github.com/mkohlhaas/Clojure-in-Action-2nd-Edition)
   - Specter
     - Trying to Understand the Source Code
       - Possibly use a debugger, e.g. [FlowStorm](https://www.flow-storm.org/)
