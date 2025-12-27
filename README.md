@@ -17,4 +17,3 @@
     - Projects:
       - ImageMagickWand
       - potrace
-  - core.async
