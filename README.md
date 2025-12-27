@@ -15,9 +15,9 @@
     - rotate
     - ✓ export pnm
       - ✓ invert image
-  - [Clojure - The Essential Reference](https://github.com/mkohlhaas/Clojure-The-Essential-Reference)
   - [Clojure in Action, 2nd Ed.](https://github.com/mkohlhaas/Clojure-in-Action-2nd-Edition)
   - Specter
+    - Learn Specter!
     - Trying to Understand the Source Code
       - Possibly use a debugger, e.g. [FlowStorm](https://www.flow-storm.org/)
     - Zippers
@@ -29,3 +29,11 @@
           - CPS (continuation passing style)
           - recursively precomputing the call graph
   - core.async
+  - [clong](https://github.com/phronmophobic/clong)
+    - Create Leiningen Projects:
+      - https://github.com/phronmophobic/clong?tab=readme-ov-file#generating-apis
+      - https://github.com/phronmophobic/clong/tree/main/examples/freetype
+      - https://github.com/phronmophobic/clong/tree/main/examples/libz
+      - https://github.com/phronmophobic/clong/tree/main/examples/lmdb
+    - https://github.com/phronmophobic/clj-graphviz
+    - https://github.com/phronmophobic/clj-libretro
