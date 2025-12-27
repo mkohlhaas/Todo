@@ -18,4 +18,3 @@
       - ImageMagickWand
       - potrace
   - core.async
-  - [Clojure in Action, 2nd Ed.](https://github.com/mkohlhaas/Clojure-in-Action-2nd-Edition)
