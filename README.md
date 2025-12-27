@@ -1,39 +1,21 @@
 - Clojure
-  - Drawing
-    - color quantization
-    - potrace
-    - Perlin noise
-    - bucket fill
-    - blur
-    - anti-aliased versions
-    - line
-    - square, rectangle
-    - circle
-    - ellipsis
-    - Bézier curves
-    - varying width (e.g. with Perlin noise)
-    - rotate
-    - ✓ export pnm
-      - ✓ invert image
-  - [Clojure in Action, 2nd Ed.](https://github.com/mkohlhaas/Clojure-in-Action-2nd-Edition)
   - Specter
-    - Learn Specter!
-    - Trying to Understand the Source Code
-      - Possibly use a debugger, e.g. [FlowStorm](https://www.flow-storm.org/)
-    - Zippers
+    - Learn Specter and create Leiningen project with examples
+    - Recap Zippers
+      - CSL (Clojure Standard Library)
       - Clojure Cheatsheet
       - [“Editing” trees in Clojure with clojure.zip](http://www.exampler.com/blog/2010/09/01/editing-trees-in-clojure-with-clojurezip/)
-    - [Extending and Using Specter](https://leanpub.com/specter/read)
-      - [Leanpub - The free sample is the book (unfinished)](https://leanpub.com/specter)
-        - Keywords:
-          - CPS (continuation passing style)
-          - recursively precomputing the call graph
-  - core.async
   - [clong](https://github.com/phronmophobic/clong)
     - Create Leiningen Projects:
       - https://github.com/phronmophobic/clong?tab=readme-ov-file#generating-apis
       - https://github.com/phronmophobic/clong/tree/main/examples/freetype
       - https://github.com/phronmophobic/clong/tree/main/examples/libz
       - https://github.com/phronmophobic/clong/tree/main/examples/lmdb
-    - https://github.com/phronmophobic/clj-graphviz
-    - https://github.com/phronmophobic/clj-libretro
+    - Learning Material:
+      - https://github.com/phronmophobic/clj-graphviz
+      - https://github.com/phronmophobic/clj-libretro
+    - Projects:
+      - ImageMagickWand
+      - potrace
+  - core.async
+  - [Clojure in Action, 2nd Ed.](https://github.com/mkohlhaas/Clojure-in-Action-2nd-Edition)
