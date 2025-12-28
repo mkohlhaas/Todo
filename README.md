@@ -1,5 +1,5 @@
 - Clojure
-  - Specter
+  - [Specter](https://github.com/redplanetlabs/specter)
     - Learn Specter and create Leiningen project with examples
   - [clong](https://github.com/phronmophobic/clong)
     - Create Leiningen Projects:
