@@ -1,6 +1,4 @@
 - Clojure
-  - [Specter](https://github.com/redplanetlabs/specter)
-    - Learn Specter and create Leiningen project with examples
   - [clong](https://github.com/phronmophobic/clong)
     - Create Leiningen Projects:
       - https://github.com/phronmophobic/clong?tab=readme-ov-file#generating-apis
