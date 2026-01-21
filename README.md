@@ -2,8 +2,8 @@
   - [clong](https://github.com/phronmophobic/clong)
     - Create Leiningen Projects:
       - https://github.com/phronmophobic/clong?tab=readme-ov-file#generating-apis
-      - https://github.com/phronmophobic/clong/tree/main/examples/freetype
       - https://github.com/phronmophobic/clong/tree/main/examples/libz
+      - https://github.com/phronmophobic/clong/tree/main/examples/freetype
       - https://github.com/phronmophobic/clong/tree/main/examples/lmdb
     - Learning Material:
       - https://github.com/phronmophobic/clj-graphviz
