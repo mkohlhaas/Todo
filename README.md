@@ -1,1 +1,29 @@
-- Nothing to do! Hehe!
+## Next/Current
+
+- [Rig](https://rig.rs/)
+  - [Main Concepts](https://docs.google.com/document/d/1lLzYcAW6tNED3PqIsayOKxPtenUrgrvszeT8UJ5VrMA/edit?usp=sharing)
+  - Read docs and examples
+- [Rust Design Patterns](https://github.com/mkohlhaas/Design-Patterns-and-Best-Practices-in-Rust-with-Aider)
+
+## More
+
+- [Reedline](https://github.com/nushell/reedline)
+  - Read docs and examples
+  - [Displaying Markdown](https://docs.google.com/document/d/1uLfwIwnWauTD5c0dtIOlFZlgrvn6ccUrFzu9rtszNrc/)
+- [State Machines](https://github.com/state-machines/state-machines-rs)
+  - Read docs and examples
+- [D2](https://github.com/d2lang/d2-vim)
+  - For flow diagrams, etc…
+- [Cargo Callgraph](https://github.com/sunbeamdotpt/cargo-callgraph)
+  - For MCP server (functions, structs, enums, traits, call graphs of functions, etc…)
+- [Git2](https://crates.io/crates/git2)
+- [mpatch](https://github.com/romelium/mpatch)
+- [Cargo](https://doc.rust-lang.org/cargo/index.html)
+  - [Clippy](https://doc.rust-lang.org/cargo/commands/cargo-clippy.html)
+    - [Call Cargo Clippy from Rust](https://docs.google.com/document/d/1tpkasZGQx86Xko5zjuu80e80LB9cdBIKHrf0mNO1jyc/)
+  - [Test](https://doc.rust-lang.org/cargo/commands/cargo-test.html)
+    - The same would apply to other Cargo subcommands, e.g. `cargo test`
+- [DSPy](https://dspy.ai/)
+  - [Prompt Optimization](https://docs.google.com/document/d/1bYAROkz_sWlL_9NecFwXt62X-198Wdhryi8ku7ZG3VY/)
+
+## Done (Sufficiently)
