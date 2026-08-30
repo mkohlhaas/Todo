@@ -7,8 +7,8 @@
 
 ## More
 
-- [Reedline](https://github.com/nushell/reedline)
-  - Read docs and examples
+- [Ratatui](https://ratatui.rs/)
+  - [Hosting WebAssembly](https://docs.google.com/document/d/1rrkjoRRDi-TAPaj8zjpAhMmKUrvycmw3dOt1Z8N6ktQ/)
   - [Displaying Markdown](https://docs.google.com/document/d/1uLfwIwnWauTD5c0dtIOlFZlgrvn6ccUrFzu9rtszNrc/)
 - [State Machines](https://github.com/state-machines/state-machines-rs)
   - Read docs and examples
