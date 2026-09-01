@@ -25,5 +25,8 @@
     - The same would apply to other Cargo subcommands, e.g. `cargo test`
 - [DSPy](https://dspy.ai/)
   - [Prompt Optimization](https://docs.google.com/document/d/1bYAROkz_sWlL_9NecFwXt62X-198Wdhryi8ku7ZG3VY/)
+- [SCIP Code Intelligence Protocol](https://scip-code.org/)
+  - [Scip Crate](https://crates.io/crates/scip)
+  - [lsp-to-scip](https://crates.io/crates/lsp-to-scip)
 
 ## Done (Sufficiently)
