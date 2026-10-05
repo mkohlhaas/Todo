@@ -29,4 +29,16 @@
   - [Scip Crate](https://crates.io/crates/scip)
   - [lsp-to-scip](https://crates.io/crates/lsp-to-scip)
 
+```
+salsa
+    ├── 1-salsa-overview
+    ├── 2-salsa-excel-replica
+    ├── 4-salsa-sample
+    └── 3-salsa-calc
+ra-vfs-sample
+ra-ide-sample
+CodeQL-Extractor
+rust-agent-demo
+```
+
 ## Done (Sufficiently)
