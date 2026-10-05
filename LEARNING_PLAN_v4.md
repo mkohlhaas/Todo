@@ -6,8 +6,51 @@
 lines — so the material grows as you go. `3-salsa-calc` is read core-files-only (skip its
 800-line parser), and `4-salsa-sample` is read in full.
 
-**Measured scope:** the `ra_ap_*` stack is ~438k non-test lines across 33 crates.
-This plan reads ~5,900 of them — about 1.3%. Everything else is on-demand reference.
+**Measured scope:** the `ra_ap_*` stack is ~438k non-test lines across 33 crates. This
+plan reads **7,458 lines** — about **1.7%**. Every one is in this workspace, except the
+crates themselves, which are on-demand reference only.
+
+| Material | Lines |
+|---|---|
+| `salsa/` code — `1`, `2`, `4` in full, `3` core only | 1,822 |
+| `salsa/` READMEs (`1`, `3`, `4`) | 376 |
+| `CodeQL-Extractor/examples/` `01`–`04` | 2,248 |
+| `CodeQL-Extractor/examples/README.md` | 191 |
+| `rust-agent-demo/src/` (all 7 files) | 2,043 |
+| `rust-agent-demo/README.md` (reference) | 334 |
+| `ra-ide-sample/src/` (all 5 files) | 1,008 |
+| **Total** | **7,458** |
+| `04_inference` (day 14, optional) | +564 |
+
+### Notes on the count
+
+**Measured, not estimated.** Earlier drafts guessed "~5,900 lines." Every number above came
+from `wc -l` on the actual files. Where a directory is listed whole, the count is the sum
+of its files; where the plan skims, the full size is still shown so the cost is visible.
+
+**Code vs. prose:** roughly 5,000 lines of code, 2,400 of prose. The READMEs and the
+`examples/README.md` are not padding — they carry the mental models (the syntax↔HIR
+distinction, the invalidation model, the dependency pins) more directly than the code does.
+
+**Lines *encountered*, not lines *understood.*** Comprehension per line is lowest at
+`rig_agent.rs` (618) and `03_semantics.rs` (679) — dense generic-heavy code where a
+line can take minutes. Real hours-per-line is worse there than the average suggests.
+The READMEs run the opposite way: faster than average, and worth including for that reason.
+
+**Not everything listed is read end-to-end.** `assists.rs` (450), `sample_files.rs` (175),
+and `agent.rs` (115) are skimmed for context at most — roughly 800 lines. Subtract those
+and the figure is nearer **6,700 lines genuinely read line-by-line.**
+
+**What it buys.** 7,458 lines is 1.7% of the `ra_ap_*` stack, and it is the 1.7% that
+unblocks writing an agent. For scale: `hir_ty` (70,653), `hir_def` (32,628), and
+`ide_assists` (110,956) alone are 214k lines that this plan never opens.
+
+**On the timeline.** The line count does not change the ~20-day estimate. At 5h/day and
+roughly 100 lines/hour for dense unfamiliar material — counting the time spent running
+code and reading event logs, not just moving your eyes — 7,458 lines is ~75 hours, or
+~15 days. Day 14 is optional, which brings the committed reading to ~11 days, plus 6
+building. If you hold a slower pace than 100 lines/hour, extend the reading days and
+leave the build phase where it is; the sequencing is what matters, not the calendar.
 
 **The build phase extends `rust-agent-demo`.** An agent already exists there — a Rig-based
 LLM loop with seven working tools. Days 15–20 close three specific gaps rather than
