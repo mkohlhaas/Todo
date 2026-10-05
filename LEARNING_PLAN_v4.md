@@ -86,7 +86,7 @@ looked up when needed.
 
 ---
 
-## Day 1 · The six macros
+## Day 1 · The five macros, six concepts
 
 **Read:** `salsa/1-salsa-overview/src/main.rs` (294). Assembled from the Salsa book's
 overview chapter, annotated section by section — each block is labelled with the heading it
@@ -95,23 +95,40 @@ corresponds to.
 This is the right opener: it's the shortest file, it introduces every macro at once, and
 it's a straight read with nothing to run first.
 
-- **Input** (`#[salsa::input]`) — the only mutable state. The struct stores nothing; it's a
-  newtype over an integer id. Read via getters that take the db, write via generated
-  setters that take `&mut db`. Each setter bumps the revision. **That `&mut` vs `&` split is
-  the whole safety story.**
-- **Tracked function** (`#[salsa::tracked]`) — a memoized query. Constraints: db first, then
-  either nothing, one Salsa struct, or `Eq + Hash` args (interned together into a key).
-- **Tracked struct** (`#[salsa::tracked]`) — an intermediate value owned by its creating
-  query. The subtlety that trips everyone is `#[tracked]`: untracked fields define *who the
-  item is*, tracked fields define *what it currently says*. On re-execution Salsa matches by
-  identity and diffs tracked fields individually, so invalidation is per-field.
-- **Interned** (`#[salsa::interned]`) — cheap equality. `Word::new(db, "foo")` returns the
-  same id every time, so `w1 == w3` is one integer compare.
-- **Accumulator** (`#[salsa::accumulator]`) — side outputs that don't pollute the return
-  value. Read with `query::accumulated::<T>`. This is exactly how rust-analyzer reports type
-  errors.
-- **`specify`** — override a query's result for one specific struct, called inside the query
-  that created it.
+### The map
+
+The file uses **five distinct declaration attributes** (`#[salsa::db]` appears four times
+but is boilerplate wiring, not a concept). They cover **six ideas**, because
+`#[salsa::tracked]` does two different jobs depending on whether it's applied to a struct or
+to a function:
+
+| # | Attribute | Concept | Line |
+|---|---|---|---|
+| 1 | `#[salsa::input]` | mutable state | 53 |
+| 2 | `#[salsa::tracked]` **on a struct** | entities; the `#[tracked]` field attribute splits identity from value | 75 |
+| 3 | `#[salsa::tracked]` **on a fn** | memoized queries | 82 |
+| 4 | `#[salsa::tracked(specify)]` | per-instance result override | 140 |
+| 5 | `#[salsa::interned]` | cheap equality | 173 |
+| 6 | `#[salsa::accumulator]` | side outputs | 183 |
+
+Verify with `grep -n '#\[salsa::' src/main.rs` — five declaration macros, and `#[salsa::tracked]`
+appearing on both a struct and a function. The split isn't cosmetic: the `#[tracked]` field
+attribute only means something in the struct case, and function queries have no equivalent.
+That's also how the Salsa book presents it.
+
+### Details the table doesn't carry
+
+- **Input** — the struct stores nothing; it's a newtype over an integer id. Read via getters
+  that take the db, write via generated setters that take `&mut db`. Each setter bumps the
+  revision. **That `&mut` vs `&` split is the whole safety story.**
+- **Tracked fn** — constraints: db first, then either nothing, one Salsa struct, or
+  `Eq + Hash` args (interned together into a key). The body cannot modify inputs, which is
+  why `db` is a shared reference.
+- **Tracked struct** — owned by its creating query. Untracked fields define *who the item is*,
+  tracked fields define *what it currently says*. On re-execution Salsa matches by identity
+  and diffs tracked fields individually, so invalidation is per-field.
+- **`specify`** — only possible for a query taking a single tracked struct, and the
+  `::specify()` call must happen in the same tracked-function invocation that created it.
 
 Then read `salsa/1-salsa-overview/README.md` — a strong defense of why you can't just use
 `String` for a memoized field (memoization hashes and compares inputs constantly, and
@@ -502,7 +519,7 @@ upgrade as a set, check `docs.rs/ra_ap_ide/<version>` for drift.
 
 ## Progress checklist
 
-- [ ] D1  `1-salsa-overview/main.rs` — all six macros; run it
+- [ ] D1  `1-salsa-overview/main.rs` — five macros, six concepts; run it
 - [ ] D1  `1-salsa-overview/README.md`
 - [ ] D2  `2-salsa-excel-replica/main.rs` — cycle recovery, accumulator split, `Db` view trait
 - [ ] D3  `3-salsa-calc/ir.rs`, `db.rs`, `compile.rs`, `type_check.rs`
