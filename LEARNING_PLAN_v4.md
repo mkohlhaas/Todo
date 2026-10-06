@@ -1,3 +1,31 @@
+# Progress checklist
+
+- [x] D1  `1-salsa-overview/main.rs` — five macros, six concepts; run it
+- [x] D1  `1-salsa-overview/README.md`
+- [x] D2  `2-salsa-excel-replica/main.rs` — cycle recovery, accumulator split, `Db` view trait
+- [ ] D3  `3-salsa-calc/ir.rs`, `db.rs`, `compile.rs`, `type_check.rs`
+- [ ] D3  *(skip `parser.rs`)*
+- [ ] D4  `4-salsa-sample/db.rs`, `files.rs`; `cargo run` — watched scenarios 1–3
+- [ ] D5  `4-salsa-sample/queries.rs`, `cargo test`
+- [ ] D5  **Gate:** can explain why `line_count` survives the scenario-4 change
+- [ ] D6  `CodeQL-Extractor/examples/README.md`, `01_syntax.rs`; run it
+- [ ] D7  `02_workspace.rs`; run it
+- [ ] D8  `03_semantics.rs` sections 1–3; run it
+- [ ] D9  `03_semantics.rs` section 4 (`original_range`)
+- [ ] D9  **Gate:** walk a `SyntaxNode` to a definition, return a real file+range
+- [ ] D10 `rust-agent-demo/analyzer.rs`, `cargo run -- demo-project`
+- [ ] D11 `functions.rs`, `daemon.rs`, `rig_agent.rs`; `--serve`; README "Rules that will save you"
+- [ ] D12 `ra-ide-sample/demos.rs`, `cargo run`
+- [ ] D13 `workspace.rs`, `configs.rs`
+- [ ] D14 *(optional)* `04_inference.rs`
+- [ ] D15 **Gap 1:** `goto_definition` tool; every range resolves to a real file
+- [ ] D16 **Gap 1:** `find_all_refs`, `hover` tools
+- [ ] D17 **Gap 2:** one position abstraction (`line`/`col` → `FilePosition`)
+- [ ] D18 **Gap 3:** make post-edit `diagnostics` structural, not prompt-driven
+- [ ] D19–20 **Gap 3:** remaining retrieval breadth; re-tune `SYSTEM_PROMPT` against `--rig-mock`
+
+---
+
 # Learning plan: Salsa → `ra_ap_*` → a retrieval-backed coding agent
 
 **Pace:** 5h/day, slow reading. ~11 days of reading, ~6 of building. Roughly three weeks.
@@ -514,31 +542,3 @@ The most valuable section is "Gotchas discovered while wiring this up":
 The `ra_ap_*` crates have **no semver guarantees** — auto-published per rust-analyzer
 release as `0.0.<build>`, pinning each other exactly. Pin all to the same `=0.0.x`,
 upgrade as a set, check `docs.rs/ra_ap_ide/<version>` for drift.
-
----
-
-## Progress checklist
-
-- [x] D1  `1-salsa-overview/main.rs` — five macros, six concepts; run it
-- [x] D1  `1-salsa-overview/README.md`
-- [x] D2  `2-salsa-excel-replica/main.rs` — cycle recovery, accumulator split, `Db` view trait
-- [ ] D3  `3-salsa-calc/ir.rs`, `db.rs`, `compile.rs`, `type_check.rs`
-- [ ] D3  *(skip `parser.rs`)*
-- [ ] D4  `4-salsa-sample/db.rs`, `files.rs`; `cargo run` — watched scenarios 1–3
-- [ ] D5  `4-salsa-sample/queries.rs`, `cargo test`
-- [ ] D5  **Gate:** can explain why `line_count` survives the scenario-4 change
-- [ ] D6  `CodeQL-Extractor/examples/README.md`, `01_syntax.rs`; run it
-- [ ] D7  `02_workspace.rs`; run it
-- [ ] D8  `03_semantics.rs` sections 1–3; run it
-- [ ] D9  `03_semantics.rs` section 4 (`original_range`)
-- [ ] D9  **Gate:** walk a `SyntaxNode` to a definition, return a real file+range
-- [ ] D10 `rust-agent-demo/analyzer.rs`, `cargo run -- demo-project`
-- [ ] D11 `functions.rs`, `daemon.rs`, `rig_agent.rs`; `--serve`; README "Rules that will save you"
-- [ ] D12 `ra-ide-sample/demos.rs`, `cargo run`
-- [ ] D13 `workspace.rs`, `configs.rs`
-- [ ] D14 *(optional)* `04_inference.rs`
-- [ ] D15 **Gap 1:** `goto_definition` tool; every range resolves to a real file
-- [ ] D16 **Gap 1:** `find_all_refs`, `hover` tools
-- [ ] D17 **Gap 2:** one position abstraction (`line`/`col` → `FilePosition`)
-- [ ] D18 **Gap 3:** make post-edit `diagnostics` structural, not prompt-driven
-- [ ] D19–20 **Gap 3:** remaining retrieval breadth; re-tune `SYSTEM_PROMPT` against `--rig-mock`
