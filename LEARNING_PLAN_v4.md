@@ -3,8 +3,8 @@
 - [x] D1  `1-salsa-overview/main.rs` — five macros, six concepts; run it
 - [x] D1  `1-salsa-overview/README.md`
 - [x] D2  `2-salsa-excel-replica/main.rs` — cycle recovery, accumulator split, `Db` view trait
-- [ ] D3  `3-salsa-calc/ir.rs`, `db.rs`, `compile.rs`, `type_check.rs`
-- [ ] D3  *(skip `parser.rs`)*
+- [x] D3  `3-salsa-calc/ir.rs`, `db.rs`, `compile.rs`, `type_check.rs`
+- [x] D3  *(skip `parser.rs`)*
 - [ ] D4  `4-salsa-sample/db.rs`, `files.rs`; `cargo run` — watched scenarios 1–3
 - [ ] D5  `4-salsa-sample/queries.rs`, `cargo test`
 - [ ] D5  **Gate:** can explain why `line_count` survives the scenario-4 change
